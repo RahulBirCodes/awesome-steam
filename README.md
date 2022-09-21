@@ -1,5 +1,7 @@
 # awesome-steam
-An awesome list of everything [STEAM](https://en.wikipedia.org/wiki/STEAM_fields).
+An awesome list of everything Science, Technology, Engineering, Arts, and Mathematics ([STEAM](https://en.wikipedia.org/wiki/STEAM_fields)).
+
+This content is also made available on [awesomesteam.org](https://awesomesteam.org).
 
 --------------------
 
