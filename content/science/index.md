@@ -21,4 +21,4 @@ hero_bg_color = "bg-science"
 
 ## Books
 
-- [OpenStax](https://openstax.org/subjects/science) - A nonprofit organization based at Rice University providing free, digital college and high school level textbooks.
+- [OpenStax](https://openstax.org/subjects/science) - Free digital high school, AP, and college level science textbooks.
