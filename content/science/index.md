@@ -1,10 +1,3 @@
-+++
-title = "Science"
-
-[extra]
-lead = "Observe our world and some of the basic fundamentals it runs on."
-hero_bg_color = "bg-science"
-+++
 
 - [What is Science?](#what-is-science)
 - [Interactive tools](#interactive-tools)

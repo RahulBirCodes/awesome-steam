@@ -1,10 +1,3 @@
-+++
-title = "Technology"
-
-[extra]
-lead = "Our modern world is powered by technology. Wanna learn the fundamentals of how these things work? You've come to the right place."
-hero_bg_color = "bg-technology"
-+++
 
 - [Intro to computer science](#intro-to-computer-science)
 - [Networking](#networking)
