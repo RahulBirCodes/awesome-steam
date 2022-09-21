@@ -1,6 +1,6 @@
 
 - [What is math?](#what-is-math)
-- [Calculus 1 and 2](#calculus-1-and-2)
+- [AP/College Calculus 1 and 2](#apcollege-calculus-1-and-2)
 - [Online tools](#online-tools)
 - [Books](#books)
 - [Other References](#other-references)
@@ -8,7 +8,7 @@
 ## What is math?
 - [Understanding Mathematics](https://github.com/nbro/understanding-math) - Links to resources talking about how to overcome problems encountered when *reading*, *writing*, *interpreting*, and *listening* to mathematics.
 
-## Calculus 1 and 2
+## AP/College Calculus 1 and 2
 - [Essence of calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PL0-GT3co4r2wlh6UHTUeQsrf3mlS2lk6x) - Youtube playlist explaning fundamentals of calculus through computer animation
 - [Calculus 1 (limits, derivatives, integrals) full course](https://www.youtube.com/watch?v=LWPzHlSBlxI&list=PLHXZ9OQGMqxfT9RMcReZ4WcoVILP4k6-m) - Youtube playlist explaining topics in calculus 1 by Dr. Trefor Bazett
 - [Khan Academy AP Calculus AB](https://www.khanacademy.org/math/ap-calculus-ab) - Articles, videos, and practice problems on calculus 1 by Khan Academy
