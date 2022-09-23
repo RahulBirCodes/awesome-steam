@@ -1,5 +1,3 @@
-+++
-title = "Mathematics"
 
 - [What is Math?](#what-is-math)
 - [AP and College Courses](#ap-and-college-courses)
