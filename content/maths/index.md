@@ -1,11 +1,6 @@
 +++
 title = "Mathematics"
 
-[extra]
-lead = "Study the language of numbers and how it's used to describe the real world."
-hero_bg_color = "bg-mathematics"
-+++
-
 - [What is Math?](#what-is-math)
 - [AP and College Courses](#ap-and-college-courses)
   - [Calculus 1 and 2](#calculus-1-and-2)
