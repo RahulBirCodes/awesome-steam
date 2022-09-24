@@ -1,4 +1,4 @@
-# awesome-steam
+# Awesome STEAM
 
 An awesome list of high quality science, technology, engineering, art, and math ([STEAM](https://en.wikipedia.org/wiki/STEAM_fields)) resources to help aid students in their classes or to provide curious minds with a starting point into numerous topics. Wanna contribute? Just send a PR!
 
