@@ -10,4 +10,4 @@ Check out our website at [awesomesteam.org](https://awesomesteam.org) where this
 - [Technology](content/technology/index.md)
 - [Engineering](content/engineering/index.md)
 - [Arts](content/arts/index.md)
-- [Mathematics](content/maths/index.md)
+- [Mathematics](content/mathematics/index.md)
