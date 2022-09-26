@@ -1,5 +1,6 @@
 
 - [What is Science?](#what-is-science)
+- [Physics](#physics)
 - [Interactive tools](#interactive-tools)
 - [Books](#books)
 
@@ -7,6 +8,9 @@
 
 - [What is science?](https://youtu.be/TclBJZuUAOY) - A brief description of the nature of science, including examples and traits of good scientists.
 - [Understanding Science 101](https://undsci.berkeley.edu/understanding-science-101/what-is-science/) - Understanding Science 101, University of California, Berkeley
+
+## Physics
+
 
 ## Interactive tools
 
