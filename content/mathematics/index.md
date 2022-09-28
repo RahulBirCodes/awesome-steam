@@ -1,5 +1,5 @@
 
-- [What is Math?](#what-is-math)
+- [Everything Math](#everything-math)
 - [AP and College Courses](#ap-and-college-courses)
   - [Calculus 1 and 2](#calculus-1-and-2)
   - [Multivariable and Vector Calculus](#multivariable-and-vector-calculus)
@@ -9,13 +9,14 @@
 - [Books](#books)
 - [Other References](#other-references)
 
-## What is Math?
+## Everything Math
 - [Understanding Mathematics](https://github.com/nbro/understanding-math) - Links to resources talking about how to overcome problems encountered when *reading*, *writing*, *interpreting*, and *listening* to mathematics.
+- [Just Math Tutorials](http://patrickjmt.com) - Free and hopefully useful math videos for world by Patrick. 
 
 ## AP and College Courses 
 
 ### Calculus 1 and 2
-- [Essence of calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PL0-GT3co4r2wlh6UHTUeQsrf3mlS2lk6x) - Youtube playlist explaning fundamentals of calculus through computer animation
+- [Essence of calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PL0-GT3co4r2wlh6UHTUeQsrf3mlS2lk6x) - Youtube playlist explaining fundamentals of calculus through computer animation
 - [Calculus 1 (limits, derivatives, integrals) full course](https://www.youtube.com/watch?v=LWPzHlSBlxI&list=PLHXZ9OQGMqxfT9RMcReZ4WcoVILP4k6-m) - Youtube playlist explaining topics in calculus 1 by Dr. Trefor Bazett
 - [Khan Academy AP Calculus AB](https://www.khanacademy.org/math/ap-calculus-ab) - Articles, videos, and practice problems on calculus 1 by Khan Academy
 - [Calculus 2 (Integration methods, series, polar, vectors) full course](https://www.youtube.com/watch?v=i4c8n4S-Sp0&list=PLHXZ9OQGMqxc4ySKTIW19TLrT91Ik9M4n) - Youtube playlist explaining topics in calc 2 by Dr. Trefor Bazett
