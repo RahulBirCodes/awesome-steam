@@ -1,14 +1,16 @@
+# Mathematics
+- [Mathematics](#mathematics)
+  - [Everything Math](#everything-math)
+  - [AP and College Courses](#ap-and-college-courses)
+    - [Calculus 1 and 2](#calculus-1-and-2)
+    - [Multivariable and Vector Calculus](#multivariable-and-vector-calculus)
+    - [Linear Algebra](#linear-algebra)
+  - [Lecture Notes](#lecture-notes)
+  - [Online Tools](#online-tools)
+  - [Books](#books)
+  - [Other References](#other-references)
 
-- [Everything Math](#everything-math)
-- [AP and College Courses](#ap-and-college-courses)
-  - [Calculus 1 and 2](#calculus-1-and-2)
-  - [Multivariable and Vector Calculus](#multivariable-and-vector-calculus)
-  - [Linear Algebra](#linear-algebra)
-- [Lecture Notes](#lecture-notes)
-- [Online Tools](#online-tools)
-- [Books](#books)
-- [Other References](#other-references)
-
+---
 ## Everything Math
 - [Understanding Mathematics](https://github.com/nbro/understanding-math) - Links to resources talking about how to overcome problems encountered when *reading*, *writing*, *interpreting*, and *listening* to mathematics.
 - [Just Math Tutorials](http://patrickjmt.com) - Free and hopefully useful math videos for world by Patrick. 

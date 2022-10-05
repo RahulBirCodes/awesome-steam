@@ -1,9 +1,13 @@
+# Technology
 
-- [Software](#software)
-  - [Intro to computer science](#intro-to-computer-science)
-  - [Networking](#networking)
-  - [Source Control](#source-control)
-- [Books](#books)
+- [Technology](#technology)
+  - [Software](#software)
+    - [Intro to computer science](#intro-to-computer-science)
+    - [Networking](#networking)
+    - [Source Control](#source-control)
+  - [Books](#books)
+
+---
 
 ## Software
 

@@ -1,12 +1,15 @@
+# Science
+- [Science](#science)
+  - [What is Science?](#what-is-science)
+  - [Physics](#physics)
+    - [Algebra Based Physics (AP Physics 1 and 2)](#algebra-based-physics-ap-physics-1-and-2)
+    - [Calculus Based Physics](#calculus-based-physics)
+  - [Interactive tools](#interactive-tools)
+    - [Chemistry Simulations](#chemistry-simulations)
+    - [Physics Simulations](#physics-simulations)
+  - [Books](#books)
 
-- [What is Science?](#what-is-science)
-- [Physics](#physics)
-  - [Algebra Based Physics (AP Physics 1 and 2)](#algebra-based-physics-ap-physics-1-and-2)
-  - [Calculus Based Physics](#calculus-based-physics)
-- [Interactive tools](#interactive-tools)
-  - [Chemistry Simulations](#chemistry-simulations)
-  - [Physics Simulations](#physics-simulations)
-- [Books](#books)
+---
 
 ## What is Science?
 

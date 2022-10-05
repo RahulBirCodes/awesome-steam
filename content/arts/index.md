@@ -1,12 +1,16 @@
+# Arts
 
-- [What is art?](#what-is-art)
-- [Calligraphy](#calligraphy)
-- [Sculpture](#sculpture)
-- [Painting and Drawing](#painting-and-drawing)
-- [Photography](#photography)
-- [Industrial Design](#industrial-design)
-- [Interactive tools](#interactive-tools)
-- [Talks](#talks)
+- [Arts](#arts)
+  - [What is art?](#what-is-art)
+  - [Calligraphy](#calligraphy)
+  - [Sculpture](#sculpture)
+  - [Painting and Drawing](#painting-and-drawing)
+  - [Photography](#photography)
+  - [Industrial Design](#industrial-design)
+  - [Interactive tools](#interactive-tools)
+  - [Talks](#talks)
+
+---
 
 ## What is art?
 - [Art](https://en.wikipedia.org/wiki/Art) - Wikipedia
