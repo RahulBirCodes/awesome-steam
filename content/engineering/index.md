@@ -7,6 +7,8 @@
   - [Chemical Engineering](#chemical-engineering)
   - [Civil Engineering](#civil-engineering)
   - [Computer Science](#computer-science)
+    - [Introduction to CS](#introduction-to-cs)
+    - [Programming Languages](#programming-languages)
   - [Electrical Engineering](#electrical-engineering)
   - [Industrial Engineering](#industrial-engineering)
   - [Material Science](#material-science)
@@ -43,11 +45,18 @@
 - [Cosmo Learning](https://cosmolearning.org/civil-engineering/) - Courses and videos offered by CosmoLearning
 
 ## Computer Science
+
+[OSSU CS](https://github.com/ossu/computer-science) - Path to a free self-taught education in Computer Science by Open Source Society University
+
+### Introduction to CS
 - [Which computing pathway is right for me?](https://ncwit.org/resource/pace/) - Using a question-and-answer format, this article introduces readers to seven disciplines within computer science.
 - [CS50: Introduction to Computer Science](https://www.edx.org/cs50) - Computer Science courses and programs from Harvard on edX
 - [Introduction to Software Engineering](https://cosmolearning.org/courses/introduction-to-software-engineering/) - Lectures by Prof. N.L. Sarda and Prof. Umesh from the Department of Computer Science & Engineering, IIT Bombay.
 - [Fundamental Principals of Computer Science](https://tutorialspoint.com/basics_of_computer_science/) - Explores foundational concepts in computer science that are used in industrial-level computing environments.
 - [Introduction to Algorithms and Software routines](https://www.khanacademy.org/computing/computer-science/algorithms/intro-to-algorithms/v/what-are-algorithms) - This video gives good overview of algorithms and why we should care about them?
+
+### Programming Languages
+- [Scratch](https://scratch.mit.edu/about) - High-level block based visual programming language to teach the fundamentals of programming to children
 
 ## Electrical Engineering
 - [Cosmo Learning](https://cosmolearning.org/civil-engineering/) - Courses and videos offered by CosmoLearning

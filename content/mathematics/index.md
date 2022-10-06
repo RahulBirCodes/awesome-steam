@@ -13,7 +13,8 @@
 ---
 ## Everything Math
 - [Understanding Mathematics](https://github.com/nbro/understanding-math) - Links to resources talking about how to overcome problems encountered when *reading*, *writing*, *interpreting*, and *listening* to mathematics.
-- [Just Math Tutorials](http://patrickjmt.com) - Free and hopefully useful math videos for world by Patrick. 
+- [Just Math Tutorials](http://patrickjmt.com) - Short math tutorials by Patrick
+- [Professor Leonard](https://www.youtube.com/c/ProfessorLeonard) - Full course playlists on youtube by Professor Leonard. 
 
 ## AP and College Courses 
 
