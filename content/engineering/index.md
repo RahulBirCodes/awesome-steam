@@ -23,29 +23,23 @@
 - [What is engineering?](https://youtu.be/btGYcizV0iI) - Explains what engineering is and gives brief overview of its four main branches (civil, mechanical, electrical, and chemical).
 - [Who make things happen? Engineers! ](https://youtu.be/FAJGx3zP-Eo) - Video by National Science Foundation explaining what engineering is all about.
 - [Learn engineering for free](https://www.engineer4free.com) - Tutorial site by Engineer4Free for learning university level engineering for free.
-- [Cosmo Learning](https://cosmolearning.org/engineering/) - Videos, Documentaries, and courses offered by CosmoLearning
+- [Cosmo Learning](https://cosmolearning.org/engineering/) - Engineering Videos, Documentaries, and courses offered by CosmoLearning
 
 ## Aerospace Engineering
-- [Cosmo Learning](https://cosmolearning.org/aerospace-engineering/) - Courses and videos offered by CosmoLearning
 
 ## Agricultural Engineering
-- [Cosmo Learning](https://cosmolearning.org/agro-engineering/) - Courses and videos offered by CosmoLearning
 
 ## Biological Engineering
 - [What is Bioengineering?](https://en.wikipedia.org/wiki/Biological_engineering) - Wikipedia  
 - [What is Bioengineering?](https://www.asme.org/topics-resources/content/infographic-what-is-bioengineering) - Infographic by ASME
-- [Cosmo Learning](https://cosmolearning.org/bioengineering/) - Courses and videos offered by CosmoLearning
 
 ## Chemical Engineering
 - [The principle of refining](https://www.youtube.com/watch?v=k4cVxGndh9g) - Quick overview of process of refining crude oil by Syamsul Arifin.
 - [How an oil refinery works?](https://www.youtube.com/watch?v=hC1PKRmiEvs) - Film made by Shell company in 1950.
-- [Cosmo Learning](https://cosmolearning.org/chemical-engineering/) - Courses and videos offered by CosmoLearning
 
 ## Civil Engineering
-- [Cosmo Learning](https://cosmolearning.org/civil-engineering/) - Courses and videos offered by CosmoLearning
 
 ## Computer Science
-
 [OSSU CS](https://github.com/ossu/computer-science) - Path to a free self-taught education in Computer Science by Open Source Society University
 
 ### Introduction to CS
@@ -59,16 +53,12 @@
 - [Scratch](https://scratch.mit.edu/about) - High-level block based visual programming language to teach the fundamentals of programming to children
 
 ## Electrical Engineering
-- [Cosmo Learning](https://cosmolearning.org/civil-engineering/) - Courses and videos offered by CosmoLearning
 
 ## Industrial Engineering
-- [Cosmo Learning](https://cosmolearning.org/industrial-engineering/) - Courses and videos offered by CosmoLearning
 
 ## Material Science
-- [Cosmo Learning](https://cosmolearning.org/materials-science/) - Courses and videos offered by CosmoLearning
 
 ## Mechanical Engineering
-- [Cosmo Learning](https://cosmolearning.org/mechanical-engineering/) - Courses and videos offered by CosmoLearning
 
 ## Interactive tools
 
