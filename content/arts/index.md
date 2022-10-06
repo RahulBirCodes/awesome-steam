@@ -23,6 +23,9 @@
 *(Fine Arts / Applied Arts)*
 ## Painting and Drawing
 *(Fine Arts)*
+
+- [How to mix paint?](https://littleneocreative.com/mixingpaint/) - Lesson on mixing paint together by Nicole Little.
+- [Shading References](https://shadingreference.com) - This tool generates basic shapes in browser so you can study and reference them from arts
 - [Cosmo Learning](https://cosmolearning.org/topics/drawing/) - Courses and videos offered by CosmoLearning
 
 ## Photography
