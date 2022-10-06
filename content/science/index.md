@@ -4,6 +4,8 @@
   - [Physics](#physics)
     - [Algebra Based Physics (AP Physics 1 and 2)](#algebra-based-physics-ap-physics-1-and-2)
     - [Calculus Based Physics](#calculus-based-physics)
+  - [Chemistry](#chemistry)
+  - [Biology](#biology)
   - [Interactive tools](#interactive-tools)
     - [Chemistry Simulations](#chemistry-simulations)
     - [Physics Simulations](#physics-simulations)
@@ -29,6 +31,10 @@
 - [Classical Mechanics](https://ocw.mit.edu/courses/8-01sc-classical-mechanics-fall-2016/) - Full course on classical mechanics by MIT OpenCourseWare
 - [Flipping Physics AP Physics C](https://www.flippingphysics.com/ap-physics-c.html) - Videos, lecture notes, and practice problems for calculus based mechanics
 - [Thermodynamics and Kinetics](https://ocw.mit.edu/courses/5-60-thermodynamics-kinetics-spring-2008/) - Full course on thermodynamics by MIT OpenCourseWare
+
+## Chemistry
+
+## Biology
 
 ## Interactive tools
 
