@@ -1,6 +1,7 @@
 # Technology
 
 - [Technology](#technology)
+  - [How's and why's?](#hows-and-whys)
   - [Software](#software)
     - [Intro to computer science](#intro-to-computer-science)
     - [Networking](#networking)
@@ -9,6 +10,8 @@
 
 ---
 
+## How's and why's?
+- [The physics behing Engineering](https://www.youtube.com/c/Lesics) - Videos published by Lesics to clear misconceptions, create a passion for engineering and explain complicated technologies in a simple way.
 ## Software
 
 ### Intro to computer science
