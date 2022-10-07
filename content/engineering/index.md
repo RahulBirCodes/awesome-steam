@@ -47,7 +47,7 @@
 
 ### Programming For Kids
 - [Scratch](https://scratch.mit.edu/about) - High-level block based visual programming language to teach the fundamentals of programming to children.
-- [PixelPad](https://pixelpad.io) - Learn to create games in python
+- [PixelPad](https://pixelpad.io) - Learn the underlying mechanisms behind code by creating browser games in python.
 - [Swift Playgrounds](https://www.apple.com/swift/playgrounds/) - Apple's iPad/mac app for learning Swift in a fun, interactive way
 
 ### Introduction to CS
