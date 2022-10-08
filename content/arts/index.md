@@ -17,7 +17,7 @@
 
 ## Calligraphy
 *(Applied Arts)*
-- [Calligraphy](https://en.wikipedia.org/wiki/Calligraphy) - Wikipeda
+- [Calligraphy](https://en.wikipedia.org/wiki/Calligraphy) - Wikipedia
 
 ## Sculpture
 *(Fine Arts / Applied Arts)*
