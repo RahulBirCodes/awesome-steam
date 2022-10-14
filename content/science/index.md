@@ -1,6 +1,6 @@
 # Science
 - [Science](#science)
-  - [What is Science?](#what-is-science)
+  - [Explore Science](#explore-science)
   - [Physics](#physics)
     - [Algebra Based Physics (AP Physics 1 and 2)](#algebra-based-physics-ap-physics-1-and-2)
     - [Calculus Based Physics](#calculus-based-physics)
@@ -13,13 +13,13 @@
 
 ---
 
-## What is Science?
+## Explore Science
 
 - [What is science?](https://youtu.be/TclBJZuUAOY) - A brief description of the nature of science, including examples and traits of good scientists.
 - [Understanding Science 101](https://undsci.berkeley.edu/understanding-science-101/what-is-science/) - Understanding Science 101, University of California, Berkeley
-
+- [STEM Ideas & The Practices of Science](https://www.youtube.com/playlist?list=PLat8Jejmdx1sfzUPWL-lI6WbT109A7PC_) - Cool new learning tools & activities by Jared Hottenstein that you can use with your students to help them learn the nature of engineering &  science
 ## Physics
-
+- [Map of Physics](https://youtu.be/ZihywtixUYo) - Everything we know about physics - and a few things we don't - in a simple map by Dominic Walliman.
 ### Algebra Based Physics (AP Physics 1 and 2)
 
 - [Flipping Physics AP Physics 1](https://www.flippingphysics.com/ap-physics-1.html) - Videos, lecture notes, and practice problems for algebra based mechanics
