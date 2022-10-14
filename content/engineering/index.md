@@ -29,6 +29,9 @@
 - [Cosmo Learning](https://cosmolearning.org/engineering/) - Engineering Videos, Documentaries, and courses offered by CosmoLearning.
 
 ## Aerospace Engineering
+- [Principles of Flight](https://youtu.be/5O-j0w-h7v0) - Dig deep into the principles of flight.
+- [Airplane Aerodynamics](https://youtu.be/edLnZgF9mUg) - Lecture by Tina Srivastava, Philip Greenspun as part of MIT OpenCourseWare.
+- [Understanding Aerodynamic Lift](https://youtu.be/E3i_XHlVCeU) - Concept of Aerodynamic Lift explained in this video by The Efficient Engineer.
 
 ## Agricultural Engineering
 
@@ -74,6 +77,10 @@
 ## Material Science
 
 ## Mechanical Engineering
+- [Understanding Engineering Drawings](https://youtu.be/ht9GwXQMgpo) - Fundamentals of Engineering Drawings explained by The Efficient Engineer 
+- [Simple Machines](https://www.youtube.com/playlist?list=PLX2gX-ftPVXUjkEEXJoC0mx8mxTlfqpCn) - Playlist of 8 videos on Simple Machines by **Dr** George Mehler
+- [How Levers, Pulleys and Gear Work](https://youtu.be/JnYVz1TSmBQ) - This video explores different methods that can be use to amplify a force, and focuses on three types of machine - levers, pulleys and gears
+- [Equilibrium](https://www.youtube.com/playlist?list=PLX2gX-ftPVXUjkEEXJoC0mx8mxTlfqpCn) - Playlist of 20 videos by Michael van Biezen on Mechanical Engineering Equilibrium.
 
 ## Interactive tools
 
