@@ -17,6 +17,7 @@
 - [What is science?](https://youtu.be/TclBJZuUAOY) - A brief description of the nature of science, including examples and traits of good scientists.
 - [Understanding Science 101](https://undsci.berkeley.edu/understanding-science-101/what-is-science/) - Understanding Science 101, University of California, Berkeley
 - [STEM Ideas & The Practices of Science](https://www.youtube.com/playlist?list=PLat8Jejmdx1sfzUPWL-lI6WbT109A7PC_) - Cool new learning tools & activities by Jared Hottenstein that you can use with your students to help them learn the nature of engineering &  science
+- [Curyte](https://www.curyte.com) - Self-paced, student-led lessons from teachers around the world
   
 ## Physics
 - [Map of Physics](https://youtu.be/ZihywtixUYo) - Everything we know about physics - and a few things we don't - in a simple map by Dominic Walliman.
