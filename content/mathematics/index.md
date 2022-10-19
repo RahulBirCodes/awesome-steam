@@ -1,6 +1,11 @@
 # Mathematics
 - [Mathematics](#mathematics)
   - [Everything Math](#everything-math)
+  - [High School Courses](#high-school-courses)
+    - [Algebra 1](#algebra-1)
+    - [Geometry](#geometry)
+    - [Algebra 2](#algebra-2)
+    - [Precalculus/Trig](#precalculustrig)
   - [AP and College Courses](#ap-and-college-courses)
     - [Calculus 1 and 2](#calculus-1-and-2)
     - [Multivariable and Vector Calculus](#multivariable-and-vector-calculus)
@@ -16,6 +21,16 @@
 - [Understanding Mathematics](https://github.com/nbro/understanding-math) - Links to resources talking about how to overcome problems encountered when *reading*, *writing*, *interpreting*, and *listening* to mathematics.
 - [Just Math Tutorials](http://patrickjmt.com) - Short math tutorials by Patrick.
 - [Professor Leonard](https://www.youtube.com/c/ProfessorLeonard) - Full course playlists on youtube by Professor Leonard. 
+
+## High School Courses
+
+### Algebra 1
+
+### Geometry
+
+### Algebra 2
+
+### Precalculus/Trig
 
 ## AP and College Courses 
 
