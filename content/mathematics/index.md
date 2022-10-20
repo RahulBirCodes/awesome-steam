@@ -12,6 +12,7 @@
     - [Linear Algebra](#linear-algebra)
     - [Introductory Statistics](#introductory-statistics)
   - [Lecture Notes](#lecture-notes)
+  - [Math Competitions](#math-competitions)
   - [Online Tools](#online-tools)
   - [Books](#books)
   - [Other References](#other-references)
@@ -59,6 +60,9 @@
 
 ## Lecture Notes
 - [Paul's Online Notes](https://tutorial.math.lamar.edu) - Complete set of free online notes and tutorials for math classes taught at Lamar University. Includes courses from Algebra to Differential Equations.
+
+## Math Competitions
+
 
 ## Online Tools
 - [Desmos](https://www.desmos.com) - Graphing and scientific calculators.
