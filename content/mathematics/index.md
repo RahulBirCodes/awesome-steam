@@ -62,6 +62,7 @@
 - [Paul's Online Notes](https://tutorial.math.lamar.edu) - Complete set of free online notes and tutorials for math classes taught at Lamar University. Includes courses from Algebra to Differential Equations.
 
 ## Math Competitions
+- [Art of Problem Solving](https://artofproblemsolving.com/wiki/) - A website with a large number of practice high school math competition problems, with solutions and detailed explanations. It includes all the previous exam problems from the AMC 8, AMC 12, and AIME exams. It also has material on specific math-related topics such as number theory.
 
 
 ## Online Tools
