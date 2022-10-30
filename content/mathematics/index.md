@@ -72,6 +72,7 @@
 
 ## Math Competitions
 - [Art of Problem Solving](https://artofproblemsolving.com/wiki/) - A website with a large number of practice high school math competition problems, with solutions and detailed explanations. It includes all the previous exam problems from the AMC 8, AMC 12, and AIME exams. It also has material on specific math-related topics such as number theory.
+- [3 Blue 1 Brown](https://www.3blue1brown.com) - Videos about discovery and mathematics by Grant Sanderson.
 
 ## Online Tools
 - [Desmos](https://www.desmos.com) - Graphing and scientific calculators.
