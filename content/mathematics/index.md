@@ -23,12 +23,16 @@
 ## High School Courses
 
 ### Algebra 1
+Wanna help fill up this section? Check out our contributing page! 😄
 
 ### Geometry
+Wanna help fill up this section? Check out our contributing page! 😄
 
 ### Algebra 2
+Wanna help fill up this section? Check out our contributing page! 😄
 
 ### Precalculus/Trig
+Wanna help fill up this section? Check out our contributing page! 😄
 
 ## AP and College Courses 
 
@@ -36,7 +40,7 @@
 - [Essence of calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PL0-GT3co4r2wlh6UHTUeQsrf3mlS2lk6x) - Youtube playlist explaining fundamentals of calculus through computer animation.
 - [Calculus 1 (limits, derivatives, integrals) full course](https://www.youtube.com/watch?v=LWPzHlSBlxI&list=PLHXZ9OQGMqxfT9RMcReZ4WcoVILP4k6-m) - Youtube playlist explaining topics in calculus 1 by Dr. Trefor Bazett.
 - [Khan Academy AP Calculus AB](https://www.khanacademy.org/math/ap-calculus-ab) - Articles, videos, and practice problems on calculus 1 by Khan Academy.
-- [PatrickJMT Calculus](http://patrickjmt.com/#calculus) - Short math tutorials on calculus topics by PatrickJMT.
+- [PatrickJMT Calculus 1](http://patrickjmt.com/#calculus) - Short math tutorials on calculus 1 topics by PatrickJMT.
 - [Professor Leonard Calculus 1](https://www.youtube.com/playlist?list=PLF797E961509B4EB5) - Full length lectures for Calculus 1 by Professor Leonard.
 - [Paul's Online Notes Calculus 1](https://tutorial.math.lamar.edu/Classes/CalcI/CalcI.aspx) - Lecture notes and practice problems for Calculus 1 by Paul Dawkins as taught at Lamar University.
 
@@ -44,6 +48,7 @@
 - [Calculus 2 (Integration methods, series, polar, vectors) full course](https://www.youtube.com/watch?v=i4c8n4S-Sp0&list=PLHXZ9OQGMqxc4ySKTIW19TLrT91Ik9M4n) - Youtube playlist explaining topics in calc 2 by Dr. Trefor Bazett.
 - [Khan Academy AP Calculus BC](https://www.khanacademy.org/math/ap-calculus-bc) - Articles, videos, and practice problems on calculus 2 by Khan Academy.
 - [Single Variable Calculus](https://ocw.mit.edu/courses/18-01-calculus-i-single-variable-calculus-fall-2020/) - Three-part course on single variable calculus by MIT OpenCourseWare.
+- - [PatrickJMT Calculus 2](http://patrickjmt.com/#calculus) - Short math tutorials on calculus 2 topics by PatrickJMT.
 - [Professor Leonard Calculus 2](https://www.youtube.com/playlist?list=PLDesaqWTN6EQ2J4vgsN1HyBeRADEh4Cw-) - Full length lectures for Calculus 2 by Professor Leonard.
 - [The AP Calculus Problem Book](http://crunchymath.weebly.com/uploads/8/2/4/0/8240213/apcalcprobbook.pdf) - A large list of practice problems for each topic in AP Calculus AB and BC.
 - [Paul's Online Notes Calculus 2](https://tutorial.math.lamar.edu/Classes/CalcII/CalcII.aspx) - Lecture notes and practice problems for Calculus 2 by Paul Dawkins as taught at Lamar University.
@@ -54,7 +59,7 @@
 - [Vector Calculus (Line Integrals, Vector Fields, etc)](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxfW0GMqeUE1bLKaYor6kbHa) - Youtube playlist explaining topics in vector calculus by Dr. Trefor Bazett.
 - [Multivariable Calculus](https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/) - Full course on differential, integral, and vector calculus for multivariable functions by MIT OpenCourseWare.
 - [Professor Leonard Calculus 3](https://www.youtube.com/playlist?list=PLDesaqWTN6ESk16YRmzuJ8f6-rnuy0Ry7) - Full length lectures for Calculus 3 by Professor Leonard.
-- [PatrickJMT Calculus 3](http://patrickjmt.com/an-introduction-to-vectors-part-1/) - First video of many short math tutorials on multivariable calculus topics by PatrickJMT.
+- [PatrickJMT Calculus 3](http://patrickjmt.com/#calculus) - Short math tutorials on every multivariable calculus topic by PatrickJMT.
 - [Paul's Online Notes Calculus 3](https://tutorial.math.lamar.edu/Classes/CalcIII/CalcIII.aspx) - Lecture notes and practice problems for Calculus 3 by Paul Dawkins as taught at Lamar University.
 - [OpenStax Calculus Volume 3](https://openstax.org/details/books/calculus-volume-3) - Free digital multivariable calculus textbook from OpenStax by Rice University.
 
