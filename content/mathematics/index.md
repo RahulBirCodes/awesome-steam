@@ -23,16 +23,16 @@
 ## High School Courses
 
 ### Algebra 1
-Wanna help fill up this section? Check out our contributing page! 😄
+Nothing here yet 😔. Wanna help fill up this section? Check out our contributing page! 😄
 
 ### Geometry
-Wanna help fill up this section? Check out our contributing page! 😄
+Nothing here yet 😔. Wanna help fill up this section? Check out our contributing page! 😄
 
 ### Algebra 2
-Wanna help fill up this section? Check out our contributing page! 😄
+Nothing here yet 😔. Wanna help fill up this section? Check out our contributing page! 😄
 
 ### Precalculus/Trig
-Wanna help fill up this section? Check out our contributing page! 😄
+Nothing here yet 😔. Wanna help fill up this section? Check out our contributing page! 😄
 
 ## AP and College Courses 
 
