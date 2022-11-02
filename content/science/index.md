@@ -32,10 +32,12 @@
 - [Flipping Physics AP Physics 1](https://www.flippingphysics.com/ap-physics-1.html) - Collection of videos exploring concepts and example problems for every topic in AP Physics 1.
 - [The Physics Classroom AP Physics 1](https://www.physicsclassroom.com/class) - Videos, lessons, and simulations on topics in AP Physics 1.
 - [Bozeman Physics AP Physics 1](https://www.bozemanscience.com/ap-physics-1-video-list) - Video lessons on topics in AP Physics 1. Videos cover scenarios and FRQ questions as well.
+- [Learn AP Physics - AP Physics 1](https://www.learnapphysics.com/apphysics1and2/index.html) - Collection of video lessons sourced from places such as Caltech with AP level practice problems organized by topic for AP Physics 1.
 
 ### AP®/College Physics 2
 - [Bozeman Physics AP Physics 2](https://www.bozemanscience.com/ap-physics-2-video-list) - Video lessons on topics in AP Physics 2. Videos cover scenarios and FRQ questions as well.
 - [OpenStax College Physics for AP® Courses](https://openstax.org/details/books/college-physics-ap-courses-2e) - Free digital algebra based physics textbook targeted for AP Physics 2 from OpenStax by Rice University.
+- [Learn AP Physics - AP Physics 2](https://www.learnapphysics.com/apphysics1and2/index.html) - Collection of video lessons sourced from places such as Caltech with AP level practice problems organized by topic for AP Physics 2.
 
 ### AP®/College Physics C (Calculus Based Mechanics and Wave Motion)
 - [Flipping Physics AP Physics C](https://www.flippingphysics.com/ap-physics-c.html) - Collection of videos exploring concepts and example problems for every topic in AP Physics 1.
