@@ -44,13 +44,14 @@
 - [Classical Mechanics](https://ocw.mit.edu/courses/8-01sc-classical-mechanics-fall-2016/) - Full course on classical mechanics by MIT OpenCourseWare.
 
 ### AP®/College Physics C (Calculus Based Electricity and Magnetism)
+- [Electricity and Magnetism](https://ocw.mit.edu/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/) - Second semester freshmen-level course of introductory physics with a focus on electricity and magnetism.
 
 ### College Physics (Calculus Based Thermodynamics)
-- [Thermodynamics and Kinetics](https://ocw.mit.edu/courses/5-60-thermodynamics-kinetics-spring-2008/) - Full course on thermodynamics by MIT OpenCourseWare
+- [Thermodynamics and Kinetics](https://ocw.mit.edu/courses/5-60-thermodynamics-kinetics-spring-2008/) - Full course on thermodynamics by MIT OpenCourseWare.
 
 ### Resources With Comprehensive Coverage of Every Physics Topic
-- [HyperPhysics](http://hyperphysics.phy-astr.gsu.edu/hbase/hph.html) - Comprehensive coverage on most physics topics through online tutorials by the Department of Physics and Astronomy at Georgia State University
-- [The Physics Hypertextbook](https://physics.info) - Online textbook on mechanics, thermal physics, electricity and magnetism, and modern physics
+- [HyperPhysics](http://hyperphysics.phy-astr.gsu.edu/hbase/hph.html) - Comprehensive coverage on most physics topics through online tutorials by the Department of Physics and Astronomy at Georgia State University.
+- [The Physics Hypertextbook](https://physics.info) - Online textbook on mechanics, thermal physics, electricity and magnetism, and modern physics.
 
 ## Chemistry
 - [LibreTexts Chemistry](https://chem.libretexts.org/Bookshelves) - Open-acess texts for every sub-discipline in chemistry.
