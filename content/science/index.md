@@ -42,9 +42,11 @@
 ### AP®/College Physics C (Calculus Based Mechanics and Wave Motion)
 - [Flipping Physics AP Physics C](https://www.flippingphysics.com/ap-physics-c.html) - Collection of videos exploring concepts and example problems for every topic in AP Physics 1.
 - [Classical Mechanics](https://ocw.mit.edu/courses/8-01sc-classical-mechanics-fall-2016/) - Full course on classical mechanics by MIT OpenCourseWare.
+- [Learn AP Physics - AP Physics C (Mechanics)](https://www.learnapphysics.com/apphysicsc/index.html) - Collection of video lessons sourced from places such as Caltech with AP level practice problems organized by topic for AP Physics C (mechanics).
 
 ### AP®/College Physics C (Calculus Based Electricity and Magnetism)
 - [Electricity and Magnetism](https://ocw.mit.edu/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/) - Second semester freshmen-level course of introductory physics with a focus on electricity and magnetism.
+- [Learn AP Physics - AP Physics C (Mechanics)](https://www.learnapphysics.com/apphysicsc/index.html) - Collection of video lessons sourced from places such as Caltech with AP level practice problems organized by topic for AP Physics C (electricity and magnetism).
 
 ### College Physics (Calculus Based Thermodynamics)
 - [Thermodynamics and Kinetics](https://ocw.mit.edu/courses/5-60-thermodynamics-kinetics-spring-2008/) - Full course on thermodynamics by MIT OpenCourseWare.
