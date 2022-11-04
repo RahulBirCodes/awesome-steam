@@ -4,6 +4,9 @@ An awesome list of high quality __science, technology, engineering, art, and mat
 
 Check out our website at [awesomesteam.org](https://awesomesteam.org) where this content is also made available.
 
+<img width="1475" alt="Screen Shot 2022-11-03 at 5 23 52 PM" src="https://user-images.githubusercontent.com/30447336/199859414-872e6d64-d06b-4a1d-b5aa-b037e1359103.png">
+
+
 --------------------
 
 - [Science](/content/science/index.md)
