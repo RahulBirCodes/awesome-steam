@@ -7,11 +7,11 @@
     - [Algebra 2](#algebra-2)
     - [Precalculus and Trig](#precalculus-and-trig)
   - [AP and College Courses](#ap-and-college-courses)
-    - [AP® or College Calculus AB](#ap-or-college-calculus-ab)
-    - [AP® or College Calculus BC](#ap-or-college-calculus-bc)
+    - [AP or College Calculus AB](#ap-or-college-calculus-ab)
+    - [AP or College Calculus BC](#ap-or-college-calculus-bc)
     - [Multivariable Calculus](#multivariable-calculus)
     - [Linear Algebra](#linear-algebra)
-    - [AP® or College Statistics](#ap-or-college-statistics)
+    - [AP or College Statistics](#ap-or-college-statistics)
   - [Math Competitions](#math-competitions)
   - [Online Tools](#online-tools)
   - [Other References](#other-references)
@@ -36,7 +36,7 @@ Help us fill out this section! Check out the [Contribute](@/contribute/_index.md
 
 ## AP and College Courses 
 
-### AP® or College Calculus AB 
+### AP or College Calculus AB 
 - [Essence of calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PL0-GT3co4r2wlh6UHTUeQsrf3mlS2lk6x) - Youtube playlist explaining fundamentals of calculus through computer animation.
 - [Calculus 1 (limits, derivatives, integrals) full course](https://www.youtube.com/watch?v=LWPzHlSBlxI&list=PLHXZ9OQGMqxfT9RMcReZ4WcoVILP4k6-m) - Youtube playlist explaining topics in calculus 1 by Dr. Trefor Bazett.
 - [Khan Academy AP Calculus AB](https://www.khanacademy.org/math/ap-calculus-ab) - Articles, videos, and practice problems on calculus 1 by Khan Academy.
@@ -44,7 +44,7 @@ Help us fill out this section! Check out the [Contribute](@/contribute/_index.md
 - [Professor Leonard Calculus 1](https://www.youtube.com/playlist?list=PLF797E961509B4EB5) - Full length lectures for Calculus 1 by Professor Leonard.
 - [Paul's Online Notes Calculus 1](https://tutorial.math.lamar.edu/Classes/CalcI/CalcI.aspx) - Lecture notes and practice problems for Calculus 1 by Paul Dawkins as taught at Lamar University.
 
-### AP® or College Calculus BC
+### AP or College Calculus BC
 - [Calculus 2 (Integration methods, series, polar, vectors) full course](https://www.youtube.com/watch?v=i4c8n4S-Sp0&list=PLHXZ9OQGMqxc4ySKTIW19TLrT91Ik9M4n) - Youtube playlist explaining topics in calc 2 by Dr. Trefor Bazett.
 - [Khan Academy AP Calculus BC](https://www.khanacademy.org/math/ap-calculus-bc) - Articles, videos, and practice problems on calculus 2 by Khan Academy.
 - [Single Variable Calculus](https://ocw.mit.edu/courses/18-01-calculus-i-single-variable-calculus-fall-2020/) - Three-part course on single variable calculus by MIT OpenCourseWare.
@@ -66,7 +66,7 @@ Help us fill out this section! Check out the [Contribute](@/contribute/_index.md
 ### Linear Algebra
 - [Linear Algebra](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/) - Full course on matrix theory and linear algebra by MIT OpenCourseWare.
 
-### AP® or College Statistics
+### AP or College Statistics
 - [Khan Academy AP/College Statistics](https://www.khanacademy.org/math/ap-statistics) - Articles, videos, and practice problems on introductory college statistics by Khan Academy.
 - [MIT Statistics Cheat Sheet](https://web.mit.edu/~csvoss/Public/usabo/stats_handout.pdf) - A cheat sheet on formulas, terms, and definitions in statistics by MIT.
 - [AP Statistics Cram](http://apsurvivall.weebly.com/uploads/1/2/6/5/12651629/ap_statistics_cram.pdf) - AP Statistics cram sheet with important concepts and formulas.
