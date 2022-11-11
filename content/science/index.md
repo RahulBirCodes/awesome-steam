@@ -59,8 +59,8 @@
 ## Chemistry
 - [LibreTexts Chemistry](https://chem.libretexts.org/Bookshelves) - Open-acess texts for every sub-discipline in chemistry.
 
-### AP or College Chemistry 
-Help us fill out this section! Check out the [Contribute](@/contribute/_index.md) page.
+### AP or College General Chemistry
+- [General Chemistry 1 Review Study Guide - IB, AP, & College Chem Final Exam](https://www.youtube.com/watch?v=5yw1YH7YA7c) - Video tutorial study guide review for students who are taking their first semester of college general chemistry, IB, or AP Chemistry by The Organic Chemistry Tutor. Even if you’re studying for the general chemistry section of the MCAT, DAT, PCAT, OAT or SAT Subject chemistry test, this video can help give you a nice overview of all the topics you need to learn in General Chemistry 1.
 
 ## Biology
 
