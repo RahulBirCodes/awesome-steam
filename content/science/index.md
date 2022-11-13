@@ -13,6 +13,7 @@
     - [AP or College Chemistry](#ap-or-college-chemistry)
   - [Biology](#biology)
     - [AP or College Biology](#ap-or-college-biology)
+  - [Psychology](#psychology)
   - [Interactive tools](#interactive-tools)
     - [Chemistry Simulations](#chemistry-simulations)
     - [Physics Simulations](#physics-simulations)
@@ -67,6 +68,8 @@
 
 ### AP or College Biology 
 Help us fill out this section! Check out the [Contribute](@/contribute/_index.md) page.
+
+## Psychology
 
 ## Interactive tools
 
