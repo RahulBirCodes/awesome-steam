@@ -10,10 +10,11 @@
     - [College Physics (Calculus Based Thermodynamics)](#college-physics-calculus-based-thermodynamics)
     - [Resources With Comprehensive Coverage of Every Physics Topic](#resources-with-comprehensive-coverage-of-every-physics-topic)
   - [Chemistry](#chemistry)
-    - [AP or College Chemistry](#ap-or-college-chemistry)
+    - [AP or College General Chemistry](#ap-or-college-general-chemistry)
   - [Biology](#biology)
     - [AP or College Biology](#ap-or-college-biology)
   - [Psychology](#psychology)
+    - [AP or College Psychology](#ap-or-college-psychology)
   - [Interactive tools](#interactive-tools)
     - [Chemistry Simulations](#chemistry-simulations)
     - [Physics Simulations](#physics-simulations)
@@ -70,6 +71,9 @@
 Help us fill out this section! Check out the [Contribute](@/contribute/_index.md) page.
 
 ## Psychology
+
+### AP or College Psychology
+Help us fill out this section! Check out the [Contribute](@/contribute/_index.md) page.
 
 ## Interactive tools
 
