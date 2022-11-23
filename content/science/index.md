@@ -46,7 +46,7 @@
 - [Flipping Physics AP Physics C](https://www.flippingphysics.com/ap-physics-c.html) - Collection of videos exploring concepts and example problems for every topic in AP Physics 1.
 - [Classical Mechanics](https://ocw.mit.edu/courses/8-01sc-classical-mechanics-fall-2016/) - Full course on classical mechanics by MIT OpenCourseWare.
 - [Learn AP Physics - AP Physics C (Mechanics)](https://www.learnapphysics.com/apphysicsc/index.html) - Collection of video lessons sourced from places such as Caltech with AP level practice problems organized by topic for AP Physics C (mechanics).
-
+- [Cal High Physics Club Handouts](https://drive.google.com/drive/u/0/folders/1LFX6zXA9H_btR7uX6aV49yy6sa_0i5dQ) - Handouts used by the California High School Physics club for AP Physics and F=ma practice, work in progress. 
 ### AP or College Physics C (Calculus Based Electricity and Magnetism)
 - [Electricity and Magnetism](https://ocw.mit.edu/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/) - Second semester freshmen-level course of introductory physics with a focus on electricity and magnetism.
 - [Learn AP Physics - AP Physics C (E&M)](https://www.learnapphysics.com/apphysicsc/index.html) - Collection of video lessons sourced from places such as Caltech with AP level practice problems organized by topic for AP Physics C (electricity and magnetism).
