@@ -75,7 +75,8 @@
 ## Psychology
 
 ### AP or College Psychology
-Help us fill out this section! Check out the [Contribute](@/contribute/_index.md) page.
+- [CrashCourse Psychology](https://www.youtube.com/playlist?list=PL8dPuuaLjXtOPRKzVLY0jJY-uHOH9KVU6) - Video playlist based on the AP Psychology curriculum that explains concepts in short videos with a mix of computer animation and lectures.
+- [CrackAP Psychology](https://www.crackap.com/ap/psychology/) - Large list of ap psychology practice multiple choice and frq tests. Includes practice tests for specific topics as well.
 
 ## Interactive tools
 
