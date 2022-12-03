@@ -57,9 +57,11 @@
 ### Resources With Comprehensive Coverage of Every Physics Topic
 - [HyperPhysics](http://hyperphysics.phy-astr.gsu.edu/hbase/hph.html) - Comprehensive coverage on most physics topics through online tutorials by the Department of Physics and Astronomy at Georgia State University.
 - [The Physics Hypertextbook](https://physics.info) - Online textbook on mechanics, thermal physics, electricity and magnetism, and modern physics.
+- [iLectureOnline Physics](http://www.ilectureonline.com/lectures/subject/PHYSICS) - Kinematics, Thermodynamics, E&M, Optics, and Modern Physics.
 
 ## Chemistry
 - [LibreTexts Chemistry](https://chem.libretexts.org/Bookshelves) - Open-acess texts for every sub-discipline in chemistry.
+- [iLectureOnline Chemistry](http://www.ilectureonline.com/lectures/subject/CHEMISTRY) - General Inorganic Chemistry, Organic Chemistry
 
 ### AP or College General Chemistry
 - [General Chemistry 1 Review Study Guide - IB, AP, & College Chem Final Exam](https://www.youtube.com/watch?v=5yw1YH7YA7c) - Video tutorial study guide review for students who are taking their first semester of college general chemistry, IB, or AP Chemistry by The Organic Chemistry Tutor. Even if you’re studying for the general chemistry section of the MCAT, DAT, PCAT, OAT or SAT Subject chemistry test, this video can help give you a nice overview of all the topics you need to learn in General Chemistry 1.
