@@ -72,6 +72,8 @@
 
 ## Electrical Engineering
 
+-[iLectureOnline Electrical Engineering](http://www.ilectureonline.com/lectures/subject/ENGINEERING/28) - Basic Electrical Laws and Circuitry to Fourier Transforms
+
 ## Industrial Engineering
 
 ## Material Science
@@ -81,6 +83,7 @@
 - [Simple Machines](https://www.youtube.com/playlist?list=PLX2gX-ftPVXUjkEEXJoC0mx8mxTlfqpCn) - Playlist of 8 videos on Simple Machines by **Dr** George Mehler
 - [How Levers, Pulleys and Gear Work](https://youtu.be/JnYVz1TSmBQ) - This video explores different methods that can be use to amplify a force, and focuses on three types of machine - levers, pulleys and gears
 - [Equilibrium](https://www.youtube.com/playlist?list=PLX2gX-ftPVXUjkEEXJoC0mx8mxTlfqpCn) - Playlist of 20 videos by Michael van Biezen on Mechanical Engineering Equilibrium.
+- [iLectureOnline Mechanical Engineering](http://www.ilectureonline.com/lectures/subject/ENGINEERING/29) - 14 topics, 20 lectures each surrounding rigid bodies to materials.
 
 ## Interactive tools
 
