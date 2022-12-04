@@ -57,7 +57,7 @@
 ### Resources With Comprehensive Coverage of Every Physics Topic
 - [HyperPhysics](http://hyperphysics.phy-astr.gsu.edu/hbase/hph.html) - Comprehensive coverage on most physics topics through online tutorials by the Department of Physics and Astronomy at Georgia State University.
 - [The Physics Hypertextbook](https://physics.info) - Online textbook on mechanics, thermal physics, electricity and magnetism, and modern physics.
-- [iLectureOnline Physics](http://www.ilectureonline.com/lectures/subject/PHYSICS) - Kinematics, Thermodynamics, E&M, Optics, and Modern Physics.
+- [iLectureOnline Physics](http://www.ilectureonline.com/lectures/subject/PHYSICS) - Youtube lectures covering Kinematics, Thermodynamics, E&M, Optics, and Modern Physics.
 
 ## Chemistry
 - [LibreTexts Chemistry](https://chem.libretexts.org/Bookshelves) - Open-acess texts for every sub-discipline in chemistry.
@@ -67,7 +67,7 @@
 - [CrashCourse Chemistry](https://www.youtube.com/playlist?list=PL8dPuuaLjXtPHzzYuWy6fYEaX9mQQ8oGr) - Video playlist based on the AP Chemistry curriculum that explains concepts in short videos with a mix of computer animation and lectures.
 - [LibreTexts General Chemistry](https://chem.libretexts.org/Bookshelves/General_Chemistry) - Several free digital textbooks and textmaps on general chemistry taught at high-school and introductory university level.
 - [Tyler DeWitt Chemistry](https://www.youtube.com/user/tdewitt451/featured) - Videos on almost every topic in chemistry targeted for students studying for the AP Test, SAT, MCAT, DAT, and OAT exams.
-- [iLectureOnline Chemistry](http://www.ilectureonline.com/lectures/subject/CHEMISTRY) - General Inorganic Chemistry.
+- [iLectureOnline Chemistry](http://www.ilectureonline.com/lectures/subject/CHEMISTRY) - Youtube lectures covering every topic in a general inorganic chemistry course.
 
 ## Biology
 
