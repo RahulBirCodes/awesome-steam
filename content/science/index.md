@@ -61,13 +61,13 @@
 
 ## Chemistry
 - [LibreTexts Chemistry](https://chem.libretexts.org/Bookshelves) - Open-acess texts for every sub-discipline in chemistry.
-- [iLectureOnline Chemistry](http://www.ilectureonline.com/lectures/subject/CHEMISTRY) - General Inorganic Chemistry, Organic Chemistry
 
 ### AP or College General Chemistry
 - [General Chemistry 1 Review Study Guide - IB, AP, & College Chem Final Exam](https://www.youtube.com/watch?v=5yw1YH7YA7c) - Video tutorial study guide review for students who are taking their first semester of college general chemistry, IB, or AP Chemistry by The Organic Chemistry Tutor. Even if you’re studying for the general chemistry section of the MCAT, DAT, PCAT, OAT or SAT Subject chemistry test, this video can help give you a nice overview of all the topics you need to learn in General Chemistry 1.
 - [CrashCourse Chemistry](https://www.youtube.com/playlist?list=PL8dPuuaLjXtPHzzYuWy6fYEaX9mQQ8oGr) - Video playlist based on the AP Chemistry curriculum that explains concepts in short videos with a mix of computer animation and lectures.
 - [LibreTexts General Chemistry](https://chem.libretexts.org/Bookshelves/General_Chemistry) - Several free digital textbooks and textmaps on general chemistry taught at high-school and introductory university level.
 - [Tyler DeWitt Chemistry](https://www.youtube.com/user/tdewitt451/featured) - Videos on almost every topic in chemistry targeted for students studying for the AP Test, SAT, MCAT, DAT, and OAT exams.
+- [iLectureOnline Chemistry](http://www.ilectureonline.com/lectures/subject/CHEMISTRY) - General Inorganic Chemistry.
 
 ## Biology
 
