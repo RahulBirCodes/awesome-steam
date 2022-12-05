@@ -5,6 +5,7 @@
   - [Automotive](#automotive)
   - [Aviation](#aviation)
   - [Water Purification](#water-purification)
+  - [Data Analytics](#data-analytics)
   - [Books](#books)
 
  ---
@@ -26,5 +27,9 @@
 ## Water Purification
 
 - [City water purification system](https://youtu.be/KsVfshmK0Ak) - Incredible process of purifying millions of gallons of drinking and waste water daily in this video by Jake O'Neal (Animagraffs)
+
+## Data Analytics
+
+- [2022 Complete Python Bootcamp From Zero to Hero in Python]([<Content URL>](https://www.udemy.com/course/complete-python-bootcamp/)) - <Learn Python like a Professional Start from the basics and go all the way to creating your own applications and games>
 
 ## Books
