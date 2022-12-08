@@ -89,3 +89,12 @@
 - [oPhysics](https://ophysics.com/index.html) - Growing collection of interactive physics simulations for every physics topic.
 - [The Physics Aviary](https://www.thephysicsaviary.com) - Interactive physics simulations for topics in AP Physics 1 and 2.
 - [PhET Physics](https://phet.colorado.edu/en/simulations/filter?subjects=physics&type=html,prototype) - Interactive physics simulations for physics topics across different grade levels.
+
+### Computer Science
+- [Harvard CS50x](https://cs50.harvard.edu/x/2022/) - An excellent beginner resource taught by the equally excellent orator David J. Malan. It includes a full intro course into the basics of computer science, graded quizzes, a Facebook group for collaboration, and a certificate. You will cover: Scratch, C, and python, and create a cool project in the end!
+- [MIT Opencourseware](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/) - A free, online course provided to you by MIT. It is one of the most rigorous online courses on Algoriths.
+- [COQ - Automated Proof Assistance](https://coq.inria.fr/) - Learn the intersection of computer science and mathematics using an automated proof assitance. COQ is a language that utilizes type theory to allow computer scientists to prove things using computers!
+- [Homotopy Type Theory Book](https://en.wikipedia.org/wiki/Homotopy_type_theory) - Homotopy Type Theory is an exciting, new field that lies in-between computer science and mathematics!
+- [Leetcode](https://leetcode.com/problemset/all/) - Leetcode is an online service utilized by many professional companys for the online assessments and technical interview process. It is now customary for computer scientists to practice leetcode problems to prepare them for the aformentioned interviews and assessments.
+- [Open AI](https://openai.com/) - Open AI provides a full suite of services and APIs allowing any computer scientist to utilize one of the most powerful language models to date.
+
