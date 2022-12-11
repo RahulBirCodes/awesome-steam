@@ -52,6 +52,7 @@
 - [Scratch](https://scratch.mit.edu/about) - High-level block based visual programming language to teach the fundamentals of programming to children.
 - [PixelPad](https://pixelpad.io) - Online game engine for learning how to build online games and applications in python.
 - [Swift Playgrounds](https://www.apple.com/swift/playgrounds/) - Apple's iPad/mac app for learning Swift in a fun, interactive way
+- [Construct 3](https://www.construct.net/en) - A free-to-use online game studio for beginners to build their own games.
 
 ### Introduction to CS
 - [Which computing pathway is right for me?](https://ncwit.org/resource/pace/) - Using a question-and-answer format, this article introduces readers to seven disciplines within computer science.
