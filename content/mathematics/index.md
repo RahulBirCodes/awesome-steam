@@ -12,14 +12,13 @@
     - [Multivariable Calculus](#multivariable-calculus)
     - [Linear Algebra](#linear-algebra)
     - [AP or College Statistics](#ap-or-college-statistics)
+    - [Upper Level Mathematics](#upper-level-mathematics)
   - [Math Competitions](#math-competitions)
   - [Online Tools](#online-tools)
   - [Other References](#other-references)
 
 ---
-## Anthologies
-- [Napkin.pdf](https://venhance.github.io/napkin/Napkin.pdf) - Covers a large portion of Mathematics in a succinct, progessive, and exploratory manner. This resource covers: Topology, Group Theory, Linear Algebra, Representation Theory, and much, much more!
-- 
+
 ## How to Study Math
 - [Understanding Mathematics](https://github.com/nbro/understanding-math) - Links to resources talking about how to overcome problems encountered when *reading*, *writing*, *interpreting*, and *listening* to mathematics.
 
@@ -73,6 +72,9 @@ Help us fill out this section! Check out the [Contribute](@/contribute/_index.md
 - [Khan Academy AP/College Statistics](https://www.khanacademy.org/math/ap-statistics) - Articles, videos, and practice problems on introductory college statistics by Khan Academy.
 - [MIT Statistics Cheat Sheet](https://web.mit.edu/~csvoss/Public/usabo/stats_handout.pdf) - A cheat sheet on formulas, terms, and definitions in statistics by MIT.
 - [AP Statistics Cram](http://apsurvivall.weebly.com/uploads/1/2/6/5/12651629/ap_statistics_cram.pdf) - AP Statistics cram sheet with important concepts and formulas.
+
+### Upper Level Mathematics
+- [Napkin.pdf](https://venhance.github.io/napkin/Napkin.pdf) - An exposition project aimed at making higher math accessible to high school students by exploring topics in a succinct, progressive, and exploratory manner.
 
 ## Math Competitions
 - [Art of Problem Solving](https://artofproblemsolving.com/wiki/) - A website with a large number of practice high school math competition problems, with solutions and detailed explanations. It includes all the previous exam problems from the AMC 8, AMC 12, and AIME exams. It also has material on specific math-related topics such as number theory.
