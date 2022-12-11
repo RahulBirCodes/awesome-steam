@@ -10,9 +10,7 @@
   - [Industrial Engineering](#industrial-engineering)
   - [Material Science](#material-science)
   - [Mechanical Engineering](#mechanical-engineering)
-  - [Interactive tools](#interactive-tools)
   - [Talks](#talks)
-  - [Books](#books)
 
 ---
 
@@ -28,6 +26,7 @@
 - [Understanding Aerodynamic Lift](https://youtu.be/E3i_XHlVCeU) - Concept of Aerodynamic Lift explained in this video by The Efficient Engineer.
 
 ## Agricultural Engineering
+Help us fill out this section! Check out the [Contribute](@/contribute/_index.md) page.
 
 ## Biological Engineering
 - [What is Bioengineering?](https://en.wikipedia.org/wiki/Biological_engineering) - Wikipedia.
@@ -38,14 +37,16 @@
 - [How an oil refinery works?](https://www.youtube.com/watch?v=hC1PKRmiEvs) - Film made by Shell company in 1950.
 
 ## Civil Engineering
+Help us fill out this section! Check out the [Contribute](@/contribute/_index.md) page.
 
 ## Electrical Engineering
-
 -[iLectureOnline Electrical Engineering](http://www.ilectureonline.com/lectures/subject/ENGINEERING/28) - Youtube lectures covering topics in electrical engineering from basic electrical laws to circuitry to fourier transforms.
 
 ## Industrial Engineering
+Help us fill out this section! Check out the [Contribute](@/contribute/_index.md) page.
 
 ## Material Science
+Help us fill out this section! Check out the [Contribute](@/contribute/_index.md) page.
 
 ## Mechanical Engineering
 - [Understanding Engineering Drawings](https://youtu.be/ht9GwXQMgpo) - Fundamentals of Engineering Drawings explained by The Efficient Engineer 
@@ -54,10 +55,6 @@
 - [Equilibrium](https://www.youtube.com/playlist?list=PLX2gX-ftPVXUjkEEXJoC0mx8mxTlfqpCn) - Playlist of 20 videos by Michael van Biezen on Mechanical Engineering Equilibrium.
 - [iLectureOnline Mechanical Engineering](http://www.ilectureonline.com/lectures/subject/ENGINEERING/29) - Youtube lectures covering 14 topics from rigid bodies to materials.
 
-## Interactive tools
-
 ## Talks
 - [The Art of Engineering](https://archive.org/details/podcast_businessleadership-video_the-art-engineering_1000084846101) - [James Dyson](https://en.wikipedia.org/wiki/James_Dyson) talks about engineering and design.
 - [Inspiring the next generation of female engineers](https://youtu.be/FEeTLopLkEo) - Debbie Sterling talks about her inner calling for engineering and eventually founding GoldieBlox.
-
-## Books
