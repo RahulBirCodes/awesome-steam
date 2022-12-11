@@ -17,6 +17,9 @@
   - [Other References](#other-references)
 
 ---
+## Anthologies
+- [Napkin.pdf](https://venhance.github.io/napkin/Napkin.pdf) - Covers a large portion of Mathematics in a succinct, progessive, and exploratory manner. This resource covers: Topology, Group Theory, Linear Algebra, Representation Theory, and much, much more!
+- 
 ## How to Study Math
 - [Understanding Mathematics](https://github.com/nbro/understanding-math) - Links to resources talking about how to overcome problems encountered when *reading*, *writing*, *interpreting*, and *listening* to mathematics.
 
