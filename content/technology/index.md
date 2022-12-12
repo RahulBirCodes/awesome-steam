@@ -50,7 +50,7 @@
 - [CodingBat Java](https://codingbat.com/java) - Coding problems in Java for topics in AP CSA. Problems are validated by test cases on the website.
 
 ### Computer Science Major
-- [OSSU CS](https://github.com/ossu/computer-science) - Path to a free self-taught education in Computer Science by Open Source Society University. Courses are from top universities such as Harvard, Princeton, Mit, etc, and match the curricular standards of [CS 2013](https://github.com/ossu/computer-science/blob/master/CURRICULAR_GUIDELINES.md): Curriculum Guidelines for Undergraduate Degree Programs in Computer Science.
+- [OSSU CS](https://github.com/ossu/computer-science) - Path to a free self-taught education in Computer Science by Open Source Society University. Courses are from top universities such as Harvard, Princeton, Mit, etc, and match the curricular standards of [CS 2013](https://github.com/ossu/computer-science/blob/master/CURRICULAR_GUIDELINES.md): Curriculum Guidelines for Undergraduate Degree Programs in Computer Science. Current CS students can look through this list for resources for a specific upper and lower division computer science class.
 
 ### Source Control
 - [Git Immersion](https://gitimmersion.com) - A guided tour of the fundamentals of git through short, hands-on labs.

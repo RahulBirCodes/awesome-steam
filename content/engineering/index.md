@@ -49,9 +49,9 @@ Help us fill out this section! Check out the [Contribute](@/contribute/_index.md
 Help us fill out this section! Check out the [Contribute](@/contribute/_index.md) page.
 
 ## Mechanical Engineering
-- [Understanding Engineering Drawings](https://youtu.be/ht9GwXQMgpo) - Fundamentals of Engineering Drawings explained by The Efficient Engineer 
-- [Simple Machines](https://www.youtube.com/playlist?list=PLX2gX-ftPVXUjkEEXJoC0mx8mxTlfqpCn) - Playlist of 8 videos on Simple Machines by **Dr** George Mehler
-- [How Levers, Pulleys and Gear Work](https://youtu.be/JnYVz1TSmBQ) - This video explores different methods that can be use to amplify a force, and focuses on three types of machine - levers, pulleys and gears
+- [Understanding Engineering Drawings](https://youtu.be/ht9GwXQMgpo) - Fundamentals of Engineering Drawings explained by The Efficient Engineer.
+- [Simple Machines](https://www.youtube.com/playlist?list=PLX2gX-ftPVXUjkEEXJoC0mx8mxTlfqpCn) - Playlist of 8 videos on Simple Machines by Dr. George Mehler.
+- [How Levers, Pulleys and Gear Work](https://youtu.be/JnYVz1TSmBQ) - This video explores different methods that can be use to amplify a force, and focuses on three types of machine - levers, pulleys and gears.
 - [Equilibrium](https://www.youtube.com/playlist?list=PLX2gX-ftPVXUjkEEXJoC0mx8mxTlfqpCn) - Playlist of 20 videos by Michael van Biezen on Mechanical Engineering Equilibrium.
 - [iLectureOnline Mechanical Engineering](http://www.ilectureonline.com/lectures/subject/ENGINEERING/29) - Youtube lectures covering 14 topics from rigid bodies to materials.
 
