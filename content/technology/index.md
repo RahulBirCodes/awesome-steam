@@ -1,17 +1,16 @@
 # Technology
 
-- [Technology](#technology)
-  - [Hows and whys?](#hows-and-whys)
-  - [Computer Science](#computer-science)
-    - [Programming For Kids](#programming-for-kids)
-    - [Computer Science Opportunities For Students](#computer-science-opportunities-for-students)
-    - [Getting Started With Computer Science](#getting-started-with-computer-science)
-    - [AP or College Computer Science Principles](#ap-or-college-computer-science-principles)
-    - [AP or College Computer Science A (Object Oriented Programming in Java)](#ap-or-college-computer-science-a-object-oriented-programming-in-java)
-    - [Computer Science Major](#computer-science-major)
-    - [Source Control](#source-control)
-    - [iOS Development](#ios-development)
-    - [Language Guides](#language-guides)
+- [Hows and whys?](#hows-and-whys)
+- [Computer Science](#computer-science)
+  - [Programming For Kids](#programming-for-kids)
+  - [Computer Science Opportunities For Students](#computer-science-opportunities-for-students)
+  - [Getting Started With Computer Science](#getting-started-with-computer-science)
+  - [AP or College Computer Science Principles](#ap-or-college-computer-science-principles)
+  - [AP or College Computer Science A (Object Oriented Programming in Java)](#ap-or-college-computer-science-a-object-oriented-programming-in-java)
+  - [Computer Science Major](#computer-science-major)
+  - [Source Control](#source-control)
+  - [iOS Development](#ios-development)
+  - [Language Guides](#language-guides)
 
  ---
 
