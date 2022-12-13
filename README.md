@@ -11,7 +11,7 @@ Check out our website at [awesomesteam.org](https://awesomesteam.org) where this
 ## Content
 
 - [Science](https://github.com/RahulBirCodes/awesome-steam/blob/main/content/science/index.md)
-- [Technology](content/technology/index.md)
-- [Engineering](content/engineering/index.md)
-- [Arts](content/arts/index.md)
-- [Mathematics](content/mathematics/index.md)
+- [Technology](https://github.com/RahulBirCodes/awesome-steam/blob/main/content/technology/index.md)
+- [Engineering](https://github.com/RahulBirCodes/awesome-steam/blob/main/content/engineering/index.md)
+- [Arts](https://github.com/RahulBirCodes/awesome-steam/blob/main/content/arts/index.md)
+- [Mathematics](https://github.com/RahulBirCodes/awesome-steam/blob/main/content/mathematics/index.md)
