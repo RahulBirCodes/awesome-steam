@@ -1,16 +1,16 @@
 # Engineering
-- [Engineering](#engineering)
-  - [Explore Engineering](#explore-engineering)
-  - [Aerospace Engineering](#aerospace-engineering)
-  - [Agricultural Engineering](#agricultural-engineering)
-  - [Biological Engineering](#biological-engineering)
-  - [Chemical Engineering](#chemical-engineering)
-  - [Civil Engineering](#civil-engineering)
-  - [Electrical Engineering](#electrical-engineering)
-  - [Industrial Engineering](#industrial-engineering)
-  - [Material Science](#material-science)
-  - [Mechanical Engineering](#mechanical-engineering)
-  - [Talks](#talks)
+
+- [Explore Engineering](#explore-engineering)
+- [Aerospace Engineering](#aerospace-engineering)
+- [Agricultural Engineering](#agricultural-engineering)
+- [Biological Engineering](#biological-engineering)
+- [Chemical Engineering](#chemical-engineering)
+- [Civil Engineering](#civil-engineering)
+- [Electrical Engineering](#electrical-engineering)
+- [Industrial Engineering](#industrial-engineering)
+- [Material Science](#material-science)
+- [Mechanical Engineering](#mechanical-engineering)
+- [Talks](#talks)
 
 ---
 
