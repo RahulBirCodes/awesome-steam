@@ -25,6 +25,7 @@
 - [PixelPad](https://pixelpad.io) - Online game engine for learning how to build online games and applications in python.
 - [Swift Playgrounds](https://www.apple.com/swift/playgrounds/) - Apple's iPad/mac app for learning Swift in a fun, interactive way.
 - [Construct 3](https://www.construct.net/en) - A free-to-use online game studio for beginners to build their own games.
+- [Code.org](https://studio.code.org/courses) - Free interactive cs courses and hour long tutorials for students across all grade levels (K-12+).
 
 ### Computer Science Opportunities For Students
 - [Apple WWDC Scholarships](https://developer.apple.com/wwdc22/swift-student-challenge/) - International challenge where students showcase their passion for coding by creating a Swift Playgrounds app project on the topic of their choice. Winners receive exclusive Apple merch, one year of membership in the Apple Developer Program, and a free ticket to Apple's Worldwide Developer Conference (WWDC).
@@ -40,11 +41,13 @@
 - [mdn web docs HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview) - A guide on the basics, history, and features of HTTP.
 
 ### AP or College Computer Science Principles
+- [Runestone AP CSP](https://runestone.academy/ns/books/published/StudentCSP/index.html?mode=browsing) - High quality interactive lessons and practice problems covering the curriculum of AP Computer Science Principles.
 - [Edx CS50's AP CSP](https://www.edx.org/xseries/harvardx-cs50-ap-computer-science-principles) - Introductory cs course targeted towards AP Computer Science Principles. Covers topics in course and guides students in creating their final project required for the AP exam.
 - [CodeHS AP CSP Exam Review](https://codehs.com/playlist/ap-cs-principles-exam-review-1780?) - Includes a reference sheet and hundreds of AP style exam questions to help students prepare for the AP Computer Science Principles exam. 
 - [Khan Academy AP CSP](https://www.khanacademy.org/computing/ap-computer-science-principles) - Articles, videos, and practice problems on AP Computer Science Principles by Khan Academy.
 
 ### AP or College Computer Science A (Object Oriented Programming in Java)
+- [Runestone AP CSAwesome](https://runestone.academy/ns/books/published/csawesome/index.html?mode=browsing) - A college board endorsed curriculum for AP CSA by by Barbara Ericson, University of Michigan, and Beryl Hoffman, Elms College.
 - [Intro To CS Using Java](http://programmedlessons.org/java5/index.html#02) - An introductory course in Java covering topics in AP CSA by Bradley Kjell.
 - [Long Nguyen AP CSA](https://longbaonguyen.github.io/courses/apcsa/apjava.html) - Lecture notes and coding challenges for topics in AP CSA by Long Nguyen.
 - [CodingBat Java](https://codingbat.com/java) - Coding problems in Java for topics in AP CSA. Problems are validated by test cases on the website.
