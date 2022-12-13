@@ -1,22 +1,25 @@
 # Science
-- [Explore Science](#explore-science)
-- [Physics](#physics)
-  - [Introduction to Physics](#introduction-to-physics)
-  - [AP or College Physics 1](#ap-or-college-physics-1)
-  - [AP or College Physics 2](#ap-or-college-physics-2)
-  - [AP or College Physics C (Calculus Based Mechanics and Wave Motion)](#ap-or-college-physics-c-calculus-based-mechanics-and-wave-motion)
-  - [AP or College Physics C (Calculus Based Electricity and Magnetism)](#ap-or-college-physics-c-calculus-based-electricity-and-magnetism)
-  - [College Physics (Calculus Based Thermodynamics)](#college-physics-calculus-based-thermodynamics)
-  - [Resources With Comprehensive Coverage of Every Physics Topic](#resources-with-comprehensive-coverage-of-every-physics-topic)
-- [Chemistry](#chemistry)
-  - [AP or College General Chemistry](#ap-or-college-general-chemistry)
-- [Biology](#biology)
-  - [AP or College Biology](#ap-or-college-biology)
-- [Psychology](#psychology)
-  - [AP or College Psychology](#ap-or-college-psychology)
-- [Interactive tools](#interactive-tools)
-  - [Chemistry Simulations](#chemistry-simulations)
-  - [Physics Simulations](#physics-simulations)
+- [Science](#science)
+  - [Explore Science](#explore-science)
+  - [Physics](#physics)
+    - [Introduction to Physics](#introduction-to-physics)
+    - [AP or College Physics 1](#ap-or-college-physics-1)
+    - [AP or College Physics 2](#ap-or-college-physics-2)
+    - [AP or College Physics C (Calculus Based Mechanics and Wave Motion)](#ap-or-college-physics-c-calculus-based-mechanics-and-wave-motion)
+    - [AP or College Physics C (Calculus Based Electricity and Magnetism)](#ap-or-college-physics-c-calculus-based-electricity-and-magnetism)
+    - [College Physics (Calculus Based Thermodynamics)](#college-physics-calculus-based-thermodynamics)
+    - [Resources With Comprehensive Coverage of Every Physics Topic](#resources-with-comprehensive-coverage-of-every-physics-topic)
+  - [Chemistry](#chemistry)
+    - [AP or College General Chemistry](#ap-or-college-general-chemistry)
+  - [Biology](#biology)
+    - [AP or College Biology](#ap-or-college-biology)
+  - [Psychology](#psychology)
+    - [AP or College Psychology](#ap-or-college-psychology)
+  - [Environmental Science](#environmental-science)
+    - [AP or College Environmental Science](#ap-or-college-environmental-science)
+  - [Interactive tools](#interactive-tools)
+    - [Chemistry Simulations](#chemistry-simulations)
+    - [Physics Simulations](#physics-simulations)
 
 ---
 
@@ -33,11 +36,11 @@
 ### AP or College Physics 1
 - [Flipping Physics AP Physics 1](https://www.flippingphysics.com/ap-physics-1.html) - Collection of videos exploring concepts and example problems for every topic in AP Physics 1.
 - [The Physics Classroom AP Physics 1](https://www.physicsclassroom.com/class) - Videos, lessons, and simulations on topics in AP Physics 1.
-- [Bozeman Physics AP Physics 1](https://www.bozemanscience.com/ap-physics-1-video-list) - Video lessons on topics in AP Physics 1. Videos cover scenarios and FRQ questions as well.
+- [Bozeman Physics AP Physics 1](https://www.bozemanscience.com/ap-physics-1-video-list) - Video lessons on topics in AP Physics 1 by Bozeman Science. Videos cover scenarios and FRQ questions as well.
 - [Learn AP Physics - AP Physics 1](https://www.learnapphysics.com/apphysics1and2/index.html) - Collection of video lessons sourced from places such as Caltech with AP level practice problems organized by topic for AP Physics 1.
 
 ### AP or College Physics 2
-- [Bozeman Physics AP Physics 2](https://www.bozemanscience.com/ap-physics-2-video-list) - Video lessons on topics in AP Physics 2. Videos cover scenarios and FRQ questions as well.
+- [Bozeman Physics AP Physics 2](https://www.bozemanscience.com/ap-physics-2-video-list) - Video lessons on topics in AP Physics 2 by Bozeman Science. Videos cover scenarios and FRQ questions as well.
 - [OpenStax College Physics for AP® Courses](https://openstax.org/details/books/college-physics-ap-courses-2e) - Free digital algebra based physics textbook targeted for AP Physics 2 from OpenStax by Rice University.
 - [Learn AP Physics - AP Physics 2](https://www.learnapphysics.com/apphysics1and2/index.html) - Collection of video lessons sourced from places such as Caltech with AP level practice problems organized by topic for AP Physics 2.
 
@@ -46,6 +49,7 @@
 - [Classical Mechanics](https://ocw.mit.edu/courses/8-01sc-classical-mechanics-fall-2016/) - Full course on classical mechanics by MIT OpenCourseWare.
 - [Learn AP Physics - AP Physics C (Mechanics)](https://www.learnapphysics.com/apphysicsc/index.html) - Collection of video lessons sourced from places such as Caltech with AP level practice problems organized by topic for AP Physics C (mechanics).
 - [Cal High Physics Club Handouts](https://drive.google.com/drive/u/0/folders/1LFX6zXA9H_btR7uX6aV49yy6sa_0i5dQ) - Handouts used by the California High School Physics club for AP Physics and F=ma practice, work in progress. 
+
 ### AP or College Physics C (Calculus Based Electricity and Magnetism)
 - [Electricity and Magnetism](https://ocw.mit.edu/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/) - Second semester freshmen-level course of introductory physics with a focus on electricity and magnetism.
 - [Learn AP Physics - AP Physics C (E&M)](https://www.learnapphysics.com/apphysicsc/index.html) - Collection of video lessons sourced from places such as Caltech with AP level practice problems organized by topic for AP Physics C (electricity and magnetism).
@@ -71,13 +75,20 @@
 ## Biology
 
 ### AP or College Biology 
-- [Bozeman Science AP Biology](https://www.bozemanscience.com/ap-biology) - Video lessons on topics in AP Biology. Videos cover scenarios and FRQ questions as well.
+- [Bozeman Science AP Biology](https://www.bozemanscience.com/ap-biology) - Video lessons on topics in AP Biology by Bozeman Science. Videos cover scenarios and FRQ questions as well.
 
 ## Psychology
 
 ### AP or College Psychology
 - [CrashCourse Psychology](https://www.youtube.com/playlist?list=PL8dPuuaLjXtOPRKzVLY0jJY-uHOH9KVU6) - Video playlist based on the AP Psychology curriculum that explains concepts in short videos with a mix of computer animation and lectures.
 - [CrackAP Psychology](https://www.crackap.com/ap/psychology/) - Large list of ap psychology practice multiple choice and frq tests. Includes practice tests for specific topics as well.
+
+## Environmental Science
+
+### AP or College Environmental Science
+- [Khan Academy APES](https://www.khanacademy.org/science/ap-college-environmental-science) - Articles, videos, and practice problems on APES by Khan Academy.
+- [Bozeman Science APES](https://www.bozemanscience.com/ap-environmental-science) - Video lessons on topics in APES by Bozeman Science. Videos cover scenarios and FRQ questions as well.
+- [Fiveable APES Exam Review](https://library.fiveable.me/ap-enviro) - APES exam prep resources including unit reviews, big ideas, free response help, and practice questions.
 
 ## Interactive tools
 
