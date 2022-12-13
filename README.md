@@ -1,6 +1,6 @@
 # Awesome STEAM [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[![AwesomeSTEAM illustrations](https://user-images.githubusercontent.com/30447336/200147061-5f2b8f0a-de03-453e-8d98-aa3ebbbcfb88.png)](https://awesomesteam.org)
+[![AwesomeSTEAM illustrations](https://user-images.githubusercontent.com/30447336/200147061-5f2b8f0a-de03-453e-8d98-aa3ebbbcfb88.png)](https://awesomesteam.org/about/)
 
 An awesome list of high quality __science, technology, engineering, art, and math__ ([STEAM](https://en.wikipedia.org/wiki/STEAM_fields)) resources to help aid students in their classes or to provide curious minds with a starting point into numerous topics. Wanna contribute? Just send a PR!
 
