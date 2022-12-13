@@ -47,7 +47,7 @@
 - [Khan Academy AP CSP](https://www.khanacademy.org/computing/ap-computer-science-principles) - Articles, videos, and practice problems on AP Computer Science Principles by Khan Academy.
 
 ### AP or College Computer Science A (Object Oriented Programming in Java)
-- [Runestone AP CSAwesome](https://runestone.academy/ns/books/published/csawesome/index.html?mode=browsing) - A college board endorsed curriculum for AP CSA by by Barbara Ericson, University of Michigan, and Beryl Hoffman, Elms College.
+- [Runestone AP CSAwesome](https://runestone.academy/ns/books/published/csawesome/index.html?mode=browsing) - A college board endorsed curriculum for AP CSA by Barbara Ericson, University of Michigan, and Beryl Hoffman, Elms College.
 - [Intro To CS Using Java](http://programmedlessons.org/java5/index.html#02) - An introductory course in Java covering topics in AP CSA by Bradley Kjell.
 - [Long Nguyen AP CSA](https://longbaonguyen.github.io/courses/apcsa/apjava.html) - Lecture notes and coding challenges for topics in AP CSA by Long Nguyen.
 - [CodingBat Java](https://codingbat.com/java) - Coding problems in Java for topics in AP CSA. Problems are validated by test cases on the website.
