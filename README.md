@@ -10,7 +10,7 @@ Check out our website at [awesomesteam.org](https://awesomesteam.org) where this
 
 ## Content
 
-- [Science](/content/science/index.md)
+- [Science](https://github.com/RahulBirCodes/awesome-steam/blob/main/content/science/index.md)
 - [Technology](content/technology/index.md)
 - [Engineering](content/engineering/index.md)
 - [Arts](content/arts/index.md)
