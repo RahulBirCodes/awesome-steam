@@ -6,6 +6,8 @@ An awesome list of high quality __science, technology, engineering, art, and mat
 
 Check out our website at [awesomesteam.org](https://awesomesteam.org) where this content is also made available.
 
+**Click one the table of content sections to see the corresponding list of resources.**
+
 ---
 
 ## Content
