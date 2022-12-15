@@ -1,16 +1,17 @@
 # Technology
 
-- [Hows and whys?](#hows-and-whys)
-- [Computer Science](#computer-science)
-  - [Programming For Kids](#programming-for-kids)
-  - [Computer Science Opportunities For Students](#computer-science-opportunities-for-students)
-  - [Getting Started With Computer Science](#getting-started-with-computer-science)
-  - [AP or College Computer Science Principles](#ap-or-college-computer-science-principles)
-  - [AP or College Computer Science A (Object Oriented Programming in Java)](#ap-or-college-computer-science-a-object-oriented-programming-in-java)
-  - [Computer Science Major](#computer-science-major)
-  - [Source Control](#source-control)
-  - [iOS Development](#ios-development)
-  - [Language Guides](#language-guides)
+- [Technology](#technology)
+  - [Hows and whys?](#hows-and-whys)
+  - [Computer Science](#computer-science)
+    - [Programming For Kids](#programming-for-kids)
+    - [Computer Science Opportunities For Students](#computer-science-opportunities-for-students)
+    - [Getting Started With Computer Science](#getting-started-with-computer-science)
+    - [AP or College Computer Science Principles](#ap-or-college-computer-science-principles)
+    - [AP or College Computer Science A (Object Oriented Programming in Java)](#ap-or-college-computer-science-a-object-oriented-programming-in-java)
+    - [Computer Science Major](#computer-science-major)
+    - [Source Control](#source-control)
+    - [iOS Development](#ios-development)
+    - [Language Guides](#language-guides)
 
  ---
 
@@ -28,7 +29,8 @@
 
 ### Computer Science Opportunities For Students
 - [Apple WWDC Scholarships](https://developer.apple.com/wwdc22/swift-student-challenge/) - International challenge where students showcase their passion for coding by creating a Swift Playgrounds app project on the topic of their choice. Winners receive exclusive Apple merch, one year of membership in the Apple Developer Program, and a free ticket to Apple's Worldwide Developer Conference (WWDC).
-- [Congressional App Challenge](https://www.congressionalappchallenge.us) - A district-wide coding challenge for middle school and high school students hosted by Members of the U.S. House of Representatives.
+- [Congressional App Challenge](https://www.congressionalappchallenge.us) - A district-wide coding challenge for middle school and high school students in the US hosted by Members of the U.S. House of Representatives.
+- [USACO Guide](https://usaco.guide) - A free comprehensive, organized roadmap for the United States of American Computing Olympiad (USACO) preparation by top USACO contestants.
 
 ### Getting Started With Computer Science
 - [Which computing pathway is right for me?](https://ncwit.org/resource/pace/) - Using a question-and-answer format, this article introduces readers to seven disciplines within computer science.
