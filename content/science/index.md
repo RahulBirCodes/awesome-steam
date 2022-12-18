@@ -20,6 +20,7 @@
 - [Interactive tools](#interactive-tools)
   - [Chemistry Simulations](#chemistry-simulations)
   - [Physics Simulations](#physics-simulations)
+  - [Astronomy Simulations](#astronomy-simulations)
 
 ---
 
