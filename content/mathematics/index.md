@@ -84,6 +84,7 @@ Help us fill out this section! Check out the [Contribute](@/contribute/_index.md
 - [Symbolab](https://www.symbolab.com) - Math solver.
 - [WolframAlpha](https://www.wolframalpha.com) - Knowledge engine and math solver.
 - [GeoGabra](https://www.geogebra.org/?lang=en) - Online 3D graphing calculator.
+- [Mathigon](https://mathigon.org/) - Free math courses, lessons, activities, and manipulatives
 
 ## Other References
 - [MathWord](http://www.mathwords.com) - A math dictionary of terms, formulas, and diagrams.
