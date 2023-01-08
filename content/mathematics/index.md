@@ -54,7 +54,7 @@ Help us fill out this section! Check out the [Contribute](@/contribute/_index.md
 - [Professor Leonard Calculus 2](https://www.youtube.com/playlist?list=PLDesaqWTN6EQ2J4vgsN1HyBeRADEh4Cw-) - Full length lectures for Calculus 2 by Professor Leonard.
 - [The AP Calculus Problem Book](http://crunchymath.weebly.com/uploads/8/2/4/0/8240213/apcalcprobbook.pdf) - A large list of practice problems for each topic in AP Calculus AB and BC.
 - [Paul's Online Notes Calculus 2](https://tutorial.math.lamar.edu/Classes/CalcII/CalcII.aspx) - Lecture notes and practice problems for Calculus 2 by Paul Dawkins as taught at Lamar University.
-- [AP Calculus BC Notes](https://docs.google.com/document/d/1YDFL622C8dRj-Z-2o1BMIUfQy4nGisp8cUVEg52-BHo/edit#) - Detailed notes with explanation following AP curriculum
+- [AP Calculus BC Notes](https://docs.google.com/document/d/1YDFL622C8dRj-Z-2o1BMIUfQy4nGisp8cUVEg52-BHo/edit#) - Concise notes, examples, and study plan for 2023 AP Calculus BC exam.
 
 ### Multivariable Calculus
 - [Multivariable Calculus (Vectors, Curves, Partial Derivatives, etc)](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxc_CvEy7xBKRQr6I214QJcd) - Youtube playlist explaining topics in multivariable calculus by Dr. Trefor Bazett.
