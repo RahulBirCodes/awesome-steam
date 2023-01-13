@@ -21,6 +21,7 @@
   - [Interactive tools](#interactive-tools)
     - [Chemistry Simulations](#chemistry-simulations)
     - [Physics Simulations](#physics-simulations)
+    - [Astronomy Simulations](#astronomy-simulations)
 
 ---
 
@@ -72,11 +73,14 @@
 - [LibreTexts General Chemistry](https://chem.libretexts.org/Bookshelves/General_Chemistry) - Several free digital textbooks and textmaps on general chemistry taught at high-school and introductory university level.
 - [Tyler DeWitt Chemistry](https://www.youtube.com/user/tdewitt451/featured) - Videos on almost every topic in chemistry targeted for students studying for the AP Test, SAT, MCAT, DAT, and OAT exams.
 - [iLectureOnline Chemistry](http://www.ilectureonline.com/lectures/subject/CHEMISTRY) - Youtube lectures covering every topic in a general inorganic chemistry course.
+- [Science Geek](https://www.sciencegeek.net/APchemistry/index.shtml) - Self-directed student practice. PowerPoints, notes, reviews, and interactive quizzes for each AP Chemistry topic. “Great extra activity and extra practice for students.”
+
 
 ## Biology
 
 ### AP or College Biology 
 - [Bozeman Science AP Biology](https://www.bozemanscience.com/ap-biology) - Video lessons on topics in AP Biology by Bozeman Science. Videos cover scenarios and FRQ questions as well.
+- [AP Biology Fiveable](https://library.fiveable.me/ap-bio) - On-demand lecture videos, study guides, trivia games and many more resources for AP Biology.
 
 ## Psychology
 
@@ -95,8 +99,13 @@
 
 ### Chemistry Simulations
 - [3DMolecules](https://apps.apple.com/app/id1639183447) - An interactive 3D molecule simulation designed to immerse students to the world of chemistry through a hands-on experience.
+- [PhET Interactive Simulations](https://phet.colorado.edu/en/simulations/filter?subjects=chemistry&type=html&sort=alpha&view=grid) - Interactive simulations covering common laboratory experiments and particle models of concepts. Teachers can “use the existing objective and open-response questions already provided and/or modify/create new questions.” Teacher directives are “kept to a minimum to encourage investigation.”
 
 ### Physics Simulations
 - [oPhysics](https://ophysics.com/index.html) - Growing collection of interactive physics simulations for every physics topic.
 - [The Physics Aviary](https://www.thephysicsaviary.com) - Interactive physics simulations for topics in AP Physics 1 and 2.
-- [PhET Physics](https://phet.colorado.edu/en/simulations/filter?subjects=physics&type=html,prototype) - Interactive physics simulations for physics topics across different grade levels.
+- [PhET Physics](https://phet.colorado.edu/en/simulations/filter?subjects=physics&type=html,prototype) - Interactive physics simulations for physics topics across different grade levels by PhET from the University of Colorado Boulder.
+- [A Free Particle](https://sites.google.com/view/afreeparticle/interactives?authuser=0) - Collection of interactive physics simulations and games explaining topics in newtonian mechanics by Michael Freeman.
+
+### Astronomy Simulations
+- [Scale of the Universe](https://scaleofuniverse.com/) - Interactive website to explore the size and scale of objects relative to each other.

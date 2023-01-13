@@ -29,7 +29,7 @@
 
 ### Computer Science Opportunities For Students
 - [Apple WWDC Scholarships](https://developer.apple.com/wwdc22/swift-student-challenge/) - International challenge where students showcase their passion for coding by creating a Swift Playgrounds app project on the topic of their choice. Winners receive exclusive Apple merch, one year of membership in the Apple Developer Program, and a free ticket to Apple's Worldwide Developer Conference (WWDC).
-- [Congressional App Challenge](https://www.congressionalappchallenge.us) - A district-wide coding challenge for middle school and high school students hosted by Members of the U.S. House of Representatives.
+- [Congressional App Challenge](https://www.congressionalappchallenge.us) - A district-wide coding challenge for middle school and high school students in the US hosted by Members of the U.S. House of Representatives.
 - [USACO Guide](https://usaco.guide) - A free comprehensive, organized roadmap for the United States of American Computing Olympiad (USACO) preparation by top USACO contestants.
 
 ### Getting Started With Computer Science
