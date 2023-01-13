@@ -15,29 +15,29 @@
 
 ---
 
-## What is art?
+## Qu'est-ce que l'art?
 - [Art](https://en.wikipedia.org/wiki/Art) - Wikipedia
 
-## AP and College Courses
+## AP et cours postesecondaire
 
-### AP or College US History
-- [Heimler's History](https://www.youtube.com/@heimlershistory) - AP US history content review and practice videos
+### AP ou étdues postesecondaire de l'histoire des É.-U.
+- [Heimler's History](https://www.youtube.com/@heimlershistory) - Contenu de révision de l'histoire AP des É.-U. et vidéos de pratique
 
-### AP or College European History
-- [Heimler's History](https://www.youtube.com/@heimlershistory) - AP European history content review and practice videos
+### AP ou étdues postesecondaire de l'histoire de l'Europe
+- [Heimler's History](https://www.youtube.com/@heimlershistory) - Contenu de révision de l'histoire AP de l'Europe et vidéos de pratique
 
-### AP or College US Government and Politics
-- [Heimler's History](https://www.youtube.com/@heimlershistory) - AP US Government and politics content review and practice videos
+### AP ou étdues postesecondaire de l'histoire du gouvernment et des politiques d'É.-U.
+- [Heimler's History](https://www.youtube.com/@heimlershistory) - Contenu de révision de l'histoire AP du gouvernment et des politiques d'É.-U. et vidéos de pratique
 
-### AP or College World History
-- [Heimler's History](https://www.youtube.com/@heimlershistory) - AP World history content review and practice videos
+### AP ou étdues postesecondaire de l'histoire du monde
+- [Heimler's History](https://www.youtube.com/@heimlershistory) - Contenu de révision de l'histoire AP du monde et vidéos de pratique
 
-## Calligraphy
-*(Applied Arts)*
+## Calligraphie
+*(Arts appliqués)*
 - [Calligraphy](https://en.wikipedia.org/wiki/Calligraphy) - Wikipedia
 
-## Painting and Drawing
-*(Fine Arts)*
+## Peindre et dessiner
+*(Beaux-Arts)*
 - [How to mix paint?](https://littleneocreative.com/mixingpaint/) - Lesson on mixing paint together by Nicole Little.
 - [Shading References](https://shadingreference.com) - This tool generates basic shapes in browser so you can study and reference them from arts
 - [Cosmo Learning](https://cosmolearning.org/topics/drawing/) - Courses and videos offered by CosmoLearning
