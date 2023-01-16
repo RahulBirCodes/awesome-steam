@@ -21,12 +21,16 @@
 ## AP and College Courses
 
 ### AP or College US History
+- [Heimler's History](https://www.youtube.com/@heimlershistory) - AP US history content review and practice videos
 
 ### AP or College European History
+- [Heimler's History](https://www.youtube.com/@heimlershistory) - AP European history content review and practice videos
 
 ### AP or College US Government and Politics
+- [Heimler's History](https://www.youtube.com/@heimlershistory) - AP US Government and politics content review and practice videos
 
 ### AP or College World History
+- [Heimler's History](https://www.youtube.com/@heimlershistory) - AP World history content review and practice videos
 
 ## Calligraphy
 *(Applied Arts)*

@@ -1,3 +1,4 @@
 [extra]
-hero_title = "People who made this possible"
-lead = "Thank you to all of our contributors on GitHub who have helped make this list possible! With your help, this list of educational resources can keep growing. If you know of a great resource you don't see listed here, add it yourself."
+hero_title = "
+Les personnes qui ont rendu cela possible"
+lead = "Merci à tous nos contributeurs sur GitHub qui ont contribué à rendre cette liste possible ! Avec votre aide, cette liste de ressources éducatives peut continuer à s'allonger. Si vous connaissez une excellente ressource que vous ne voyez pas ici, ajoutez-la vous-même."
