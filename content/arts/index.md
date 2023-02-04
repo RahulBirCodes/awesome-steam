@@ -22,6 +22,7 @@
 
 ### AP or College US History
 - [Heimler's History](https://www.youtube.com/@heimlershistory) - AP US history content review and practice videos.
+- [APUSH Reviews in 10 Minutes](https://www.youtube.com/playlist?app=desktop&list=PLlair5BOIPJaUm7qr07c7J-A_zyt2dH3I) - 10 minute reviews for each time period covered in APUSH.
 
 ### AP or College European History
 - [Heimler's History](https://www.youtube.com/@heimlershistory) - AP European history content review and practice videos.
