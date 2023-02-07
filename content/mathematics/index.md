@@ -25,7 +25,8 @@
 ## High School Courses
 
 ### Algebra 1
-Help us fill out this section! Check out the [Contribute](@/contribute/_index.md) page.
+- [Professor Leonard Prelagebra](https://www.youtube.com/playlist?list=PL4C9296DF81B9EF13) - Full length lectures for prealgebra by Professor Leonard.
+- [Professor Leonard Intermediate Algebra]([https://www.youtube.com/playlist?list=PL4C9296DF81B9EF13](https://www.youtube.com/playlist?list=PLC292123722B1B450)) - Full length lectures for intermediate algebra by Professor Leonard.
 
 ### Geometry
 Help us fill out this section! Check out the [Contribute](@/contribute/_index.md) page.
@@ -34,7 +35,7 @@ Help us fill out this section! Check out the [Contribute](@/contribute/_index.md
 Help us fill out this section! Check out the [Contribute](@/contribute/_index.md) page.
 
 ### Precalculus and Trig 
-Help us fill out this section! Check out the [Contribute](@/contribute/_index.md) page.
+- [Professor Leonard Precalculus](https://www.youtube.com/playlist?list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP) - Full length lectures for precalculus by Professor Leonard.
 
 ## AP and College Courses 
 
@@ -68,6 +69,9 @@ Help us fill out this section! Check out the [Contribute](@/contribute/_index.md
 
 ### Linear Algebra
 - [Linear Algebra](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/) - Full course on matrix theory and linear algebra by MIT OpenCourseWare.
+- [3Blue1Brown: Linear Algebra intuition](https://youtube.com/playlist?list=PL0-GT3co4r2y2YErbmuJw2L5tW4Ew2O5B) - Not a full course, and is intended only to lay the foundation of the intuition. Playlist that animates several linear algebra concepts, making them easier to see. 
+- [Kimberly Brehm's Linear Algebra](https://youtube.com/playlist?list=PLl-gb0E4MII03hiCrZa7YqxUMEeEPmZqK). Full undergrad linear algebra course.
+- [Jim Hefferon's Linear Algebra](https://joshua.smcvt.edu/linearalgebra/). Entirely free linear algebra textbook with solutions.
 
 ### AP or College Statistics
 - [Khan Academy AP/College Statistics](https://www.khanacademy.org/math/ap-statistics) - Articles, videos, and practice problems on introductory college statistics by Khan Academy.
@@ -76,6 +80,13 @@ Help us fill out this section! Check out the [Contribute](@/contribute/_index.md
 
 ### Upper Level Mathematics
 - [Napkin.pdf](https://venhance.github.io/napkin/Napkin.pdf) - An exposition project aimed at making higher math accessible to high school students by exploring topics in a succinct, progressive, and exploratory manner.
+
+### Upper Level Statistics
+- [Janos Englander's Intro to Probability](https://sites.google.com/view/englandj/math-4510?pli=1) - Has the textbook for Patrick Brazil, MIT Probability. Also has homework, but no videos.
+- [Patrick Brazil's Introduction to Probability](https://www.youtube.com/playlist?list=PLUTn30k919O_dwIAqUqq37gNQJFHCDQ2D) - Calculus-based probability. Uses Sheldon Ross's A First Course in Probability, 8th edition (see Englander). Does not appear to publicly display notes, assignments.
+- [Jem Conrocran's Mathematical Statistics](https://www.youtube.com/playlist?list=PLLyj1Zd4UWrOk5-wIki_oOxHJnNj0_437) - Requires calculus-based probability, see above. Does not appear to publicly display notes, textbook, assignments.
+- [MIT Probability and Random Variables](https://ocw.mit.edu/courses/18-440-probability-and-random-variables-spring-2014/) - Requires multivariable calculus. Uses Sheldon Ross's A First Course in Probability, 8th edition (see Englander). Has lecture notes, assignments, exams.
+- [MIT Statistics for Applications](https://ocw.mit.edu/courses/18-650-statistics-for-applications-fall-2016/) - Requires Probability and Random Variables. Has lecture notes, lecture videos, assignments, exams.
 
 ## Math Competitions
 - [Art of Problem Solving](https://artofproblemsolving.com/wiki/) - A website with a large number of practice high school math competition problems, with solutions and detailed explanations. It includes all the previous exam problems from the AMC 8, AMC 12, and AIME exams. It also has material on specific math-related topics such as number theory.
