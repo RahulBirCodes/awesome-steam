@@ -26,6 +26,7 @@
 - [Swift Playgrounds](https://www.apple.com/swift/playgrounds/) - Apple's iPad/mac app for learning Swift in a fun, interactive way.
 - [Construct 3](https://www.construct.net/en) - A free-to-use online game studio for beginners to build their own games.
 - [Code.org](https://studio.code.org/courses) - Free interactive cs courses and hour long tutorials for students across all grade levels (K-12+).
+- [Isaac Computer Science](https://isaaccomputerscience.org/) - Online platform for exploring computer science for students across all grade levels (K-12+).
 
 ### Computer Science Opportunities For Students
 - [Apple WWDC Scholarships](https://developer.apple.com/wwdc22/swift-student-challenge/) - International challenge where students showcase their passion for coding by creating a Swift Playgrounds app project on the topic of their choice. Winners receive exclusive Apple merch, one year of membership in the Apple Developer Program, and a free ticket to Apple's Worldwide Developer Conference (WWDC).
