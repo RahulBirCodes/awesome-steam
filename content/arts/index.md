@@ -1,17 +1,16 @@
 # Arts
 
-- [Arts](#arts)
-  - [What is art?](#what-is-art)
-  - [AP and College Courses](#ap-and-college-courses)
-    - [AP or College US History](#ap-or-college-us-history)
-    - [AP or College European History](#ap-or-college-european-history)
-    - [AP or College US Government and Politics](#ap-or-college-us-government-and-politics)
-    - [AP or College World History](#ap-or-college-world-history)
-  - [Calligraphy](#calligraphy)
-  - [Painting and Drawing](#painting-and-drawing)
-  - [Digital Photography](#digital-photography)
-  - [Industrial Design](#industrial-design)
-  - [Talks](#talks)
+- [What is art?](#what-is-art)
+- [AP and College Courses](#ap-and-college-courses)
+  - [AP or College US History](#ap-or-college-us-history)
+  - [AP or College European History](#ap-or-college-european-history)
+  - [AP or College US Government and Politics](#ap-or-college-us-government-and-politics)
+  - [AP or College World History](#ap-or-college-world-history)
+- [Calligraphy](#calligraphy)
+- [Painting and Drawing](#painting-and-drawing)
+- [Digital Photography](#digital-photography)
+- [Industrial Design](#industrial-design)
+- [Talks](#talks)
 
 ---
 
