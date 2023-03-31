@@ -10,6 +10,7 @@
   - [Computer Science Major](#computer-science-major)
   - [Source Control](#source-control)
   - [iOS Development](#ios-development)
+  - [Web Development](#web-development)
   - [Language Guides](#language-guides)
 
  ---
@@ -64,6 +65,9 @@
 ### iOS Development
 - [Stanford CS193P](https://cs193p.sites.stanford.edu) - Stanford University's course on developing applications for iOS using SwiftUI taught by Professor Paul Hegarty. Students are recommended to have experienec in object-oriented programming prior to taking the course.
 - [Apple Developer SwiftUI Tutorials](https://developer.apple.com/tutorials/swiftui) - Hands-on tutorials by Apple teaching the fundamentals of SwiftUI.
+
+### Web Development
+- [Eloquent Javascript](https://eloquentjavascript.net) - Interactive online book on Javascript taking you through the basics of the language, its incorporation into the browser, and backend programming with Node.js by Marijn Haverbeke.
 
 ### Language Guides
 - [Programming: Principles and Practice Using C++, 2nd Edition](https://learning.oreilly.com/library/view/programming-principles-and/9780133796759/) - An introduction to the fundamentals concepts and techniques in programming through C++ by the creator of C++.
