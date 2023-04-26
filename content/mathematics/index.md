@@ -97,6 +97,7 @@ Help us fill out this section! Check out the [Contribute](@/contribute/_index.md
 - [WolframAlpha](https://www.wolframalpha.com) - Knowledge engine and math solver.
 - [GeoGabra](https://www.geogebra.org/?lang=en) - Online 3D graphing calculator.
 - [Mathigon](https://mathigon.org/) - Free math courses, lessons, activities, and manipulatives for younger students in elementary and middle school.
+- [eSpark](https://www.esparklearning.com) - Free math lessons, games & activities for K-5.
 
 ## Other References
 - [MathWord](http://www.mathwords.com) - A math dictionary of terms, formulas, and diagrams.
