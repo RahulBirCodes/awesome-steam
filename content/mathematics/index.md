@@ -1,6 +1,7 @@
 # Mathematics
 
 - [How to Study Math](#how-to-study-math)
+- [K-5 Mathematics](#k-5-mathematics)
 - [High School Courses](#high-school-courses)
   - [Algebra 1](#algebra-1)
   - [Geometry](#geometry)
@@ -22,11 +23,14 @@
 ## How to Study Math
 - [Understanding Mathematics](https://github.com/nbro/understanding-math) - Links to resources talking about how to overcome problems encountered when *reading*, *writing*, *interpreting*, and *listening* to mathematics.
 
+## K-5 Mathematics
+- [eSpark](https://www.esparklearning.com) - Free math lessons, games & activities for K-5.
+
 ## High School Courses
 
 ### Algebra 1
 - [Professor Leonard Prelagebra](https://www.youtube.com/playlist?list=PL4C9296DF81B9EF13) - Full length lectures for prealgebra by Professor Leonard.
-- [Professor Leonard Intermediate Algebra]([https://www.youtube.com/playlist?list=PL4C9296DF81B9EF13](https://www.youtube.com/playlist?list=PLC292123722B1B450)) - Full length lectures for intermediate algebra by Professor Leonard.
+- [Professor Leonard Intermediate Algebra][https://www.youtube.com/playlist?list=PL4C9296DF81B9EF13](https://www.youtube.com/playlist?list=PLC292123722B1B450) - Full length lectures for intermediate algebra by Professor Leonard.
 
 ### Geometry
 Help us fill out this section! Check out the [Contribute](@/contribute/_index.md) page.
@@ -97,7 +101,6 @@ Help us fill out this section! Check out the [Contribute](@/contribute/_index.md
 - [WolframAlpha](https://www.wolframalpha.com) - Knowledge engine and math solver.
 - [GeoGabra](https://www.geogebra.org/?lang=en) - Online 3D graphing calculator.
 - [Mathigon](https://mathigon.org/) - Free math courses, lessons, activities, and manipulatives for younger students in elementary and middle school.
-- [eSpark](https://www.esparklearning.com) - Free math lessons, games & activities for K-5.
 
 ## Other References
 - [MathWord](http://www.mathwords.com) - A math dictionary of terms, formulas, and diagrams.
