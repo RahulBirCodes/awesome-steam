@@ -30,7 +30,7 @@
 
 ### Algebra 1
 - [Professor Leonard Prelagebra](https://www.youtube.com/playlist?list=PL4C9296DF81B9EF13) - Full length lectures for prealgebra by Professor Leonard.
-- [Professor Leonard Intermediate Algebra][https://www.youtube.com/playlist?list=PL4C9296DF81B9EF13](https://www.youtube.com/playlist?list=PLC292123722B1B450) - Full length lectures for intermediate algebra by Professor Leonard.
+- [Professor Leonard Intermediate Algebra](https://www.youtube.com/playlist?list=PLC292123722B1B450) - Full length lectures for intermediate algebra by Professor Leonard.
 
 ### Geometry
 Help us fill out this section! Check out the [Contribute](@/contribute/_index.md) page.
