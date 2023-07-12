@@ -100,6 +100,8 @@ Help us fill out this section! Check out the [Contribute](@/contribute/_index.md
 - [Symbolab](https://www.symbolab.com) - Math solver.
 - [WolframAlpha](https://www.wolframalpha.com) - Knowledge engine and math solver.
 - [GeoGabra](https://www.geogebra.org/?lang=en) - Online 3D graphing calculator.
+- [4th Derivative Calculator](https://calculator-derivative.com/fourth-derivative-calculator) - 4th Derivative Calculator.
+- [Indefinite Integration Calculator](https://calculator-integral.com/indefinite-integral-calculator) - Indefinite Integration Calculator.
 - [Mathigon](https://mathigon.org/) - Free math courses, lessons, activities, and manipulatives for younger students in elementary and middle school.
 
 ## Other References
