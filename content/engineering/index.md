@@ -39,6 +39,9 @@ Help us fill out this section! Check out the [Contribute](@/contribute/_index.md
 ## Civil Engineering
 Help us fill out this section! Check out the [Contribute](@/contribute/_index.md) page.
 
+## Computer Science
+- [Introduction to Computer Science](https://cs50.harvard.edu/x/2023/) - Harvard University's well-known introductory course to computer science containing algorithms, data structures, computational thinking, abstraction and more.
+
 ## Electrical Engineering
 -[iLectureOnline Electrical Engineering](http://www.ilectureonline.com/lectures/subject/ENGINEERING/28) - Youtube lectures covering topics in electrical engineering from basic electrical laws to circuitry to fourier transforms.
 
