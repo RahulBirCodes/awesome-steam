@@ -100,6 +100,7 @@ Help us fill out this section! Check out the [Contribute](@/contribute/_index.md
 - [4th Derivative Calculator](https://calculator-derivative.com/fourth-derivative-calculator) - 4th Derivative Calculator.
 - [Indefinite Integration Calculator](https://calculator-integral.com/indefinite-integral-calculator) - Indefinite Integration Calculator.
 - [Mathigon](https://mathigon.org/) - Free math courses, lessons, activities, and manipulatives for younger students in elementary and middle school.
+- [CompSciLib](https://www.compscilib.com/) - Computer Science/Math calculators and practice problems for college students.
 
 ## Other References
 - [MathWord](http://www.mathwords.com) - A math dictionary of terms, formulas, and diagrams.
