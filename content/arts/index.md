@@ -41,6 +41,7 @@
 - [How to mix paint?](https://littleneocreative.com/mixingpaint/) - Lesson on mixing paint together by Nicole Little.
 - [Shading References](https://shadingreference.com) - This tool generates basic shapes in browser so you can study and reference them from arts.
 - [Cosmo Learning](https://cosmolearning.org/topics/drawing/) - Courses and videos offered by CosmoLearning.
+- [ColorKind](https://colorkind.app/) - Creates printable coloring-page outlines from prompts or family photos with age-adjusted detail levels.
 
 ## Digital Photography
 - [Digital Photography with Marc Levoy](https://cosmolearning.org/courses/digital-photography-with-marc-levoy/) - Based on CS 178 (Digital Photography) taught at Stanford by Marc Levoy.
