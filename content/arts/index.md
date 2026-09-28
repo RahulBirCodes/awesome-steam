@@ -40,6 +40,7 @@
 *(Fine Arts)*
 - [How to mix paint?](https://littleneocreative.com/mixingpaint/) - Lesson on mixing paint together by Nicole Little.
 - [Shading References](https://shadingreference.com) - This tool generates basic shapes in browser so you can study and reference them from arts.
+- [Coloring Fun](https://coloringfun.io) - Free printable coloring pages by subject with Easy, Medium, Hard, and Expert difficulty labels for shared art activities.
 - [Cosmo Learning](https://cosmolearning.org/topics/drawing/) - Courses and videos offered by CosmoLearning.
 
 ## Digital Photography
