@@ -84,6 +84,7 @@
 ### AP or College Biology 
 - [Bozeman Science AP Biology](https://www.bozemanscience.com/ap-biology) - Video lessons on topics in AP Biology by Bozeman Science. Videos cover scenarios and FRQ questions as well.
 - [AP Biology Fiveable](https://library.fiveable.me/ap-bio) - On-demand lecture videos, study guides, trivia games and many more resources for AP Biology.
+- [LevlPrep AP Biology](https://levlprep.com/bio/) - Lessons built on the current course framework, with free notes for every topic, data heavy practice in the style of the exam, and statistics skills. Free to start, with an optional paid pass.
 
 ## Psychology
 
