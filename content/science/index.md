@@ -112,3 +112,4 @@
 
 ### Astronomy Simulations
 - [Scale of the Universe](https://scaleofuniverse.com/) - Interactive website to explore the size and scale of objects relative to each other.
+- [3D Solar System Simulator](https://www.3dsolarsystem.net/) - Free in-browser 3D model of the Sun and eight planets, with a real-distance and true-scale toggle and a real-speed mode that uses actual orbital and rotation periods.
