@@ -109,6 +109,7 @@
 - [The Physics Aviary](https://www.thephysicsaviary.com) - Interactive physics simulations for topics in AP Physics 1 and 2.
 - [PhET Physics](https://phet.colorado.edu/en/simulations/filter?subjects=physics&type=html,prototype) - Interactive physics simulations for physics topics across different grade levels by PhET from the University of Colorado Boulder.
 - [A Free Particle](https://sites.google.com/view/afreeparticle/interactives?authuser=0) - Collection of interactive physics simulations and games explaining topics in newtonian mechanics by Michael Freeman.
+- [Scivra](https://www.scivra.com/) - Free interactive 3D science labs for grades 9–12 physics, chemistry and biology, runs in the browser.
 
 ### Astronomy Simulations
 - [Scale of the Universe](https://scaleofuniverse.com/) - Interactive website to explore the size and scale of objects relative to each other.
