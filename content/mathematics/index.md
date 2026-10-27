@@ -33,10 +33,10 @@
 - [Professor Leonard Intermediate Algebra](https://www.youtube.com/playlist?list=PLC292123722B1B450) - Full length lectures for intermediate algebra by Professor Leonard.
 
 ### Geometry
-Help us fill out this section! Check out the [Contribute](@/contribute/_index.md) page.
+- [Coddy Geometry](https://coddy.tech/landing/geometry) - Free interactive high school geometry course where you tap angles and sides, name the rule that connects them, and the board checks it.
 
 ### Algebra 2
-Help us fill out this section! Check out the [Contribute](@/contribute/_index.md) page.
+- [Coddy Algebra 2](https://coddy.tech/landing/algebra-2) - Free interactive course on functions, quadratics, complex numbers, polynomials, radicals and logs, with every line of work checked as you write it.
 
 ### Precalculus and Trig 
 - [Professor Leonard Precalculus](https://www.youtube.com/playlist?list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP) - Full length lectures for precalculus by Professor Leonard.
