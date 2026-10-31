@@ -49,6 +49,7 @@ Help us fill out this section! Check out the [Contribute](@/contribute/_index.md
 - [Khan Academy AP Calculus AB](https://www.khanacademy.org/math/ap-calculus-ab) - Articles, videos, and practice problems on calculus 1 by Khan Academy.
 - [Professor Leonard Calculus 1](https://www.youtube.com/playlist?list=PLF797E961509B4EB5) - Full length lectures for Calculus 1 by Professor Leonard.
 - [Paul's Online Notes Calculus 1](https://tutorial.math.lamar.edu/Classes/CalcI/CalcI.aspx) - Lecture notes and practice problems for Calculus 1 by Paul Dawkins as taught at Lamar University.
+- [Derivative Calculator AI](https://derivativecalculatorai.com/) - Free online solver showing step-by-step derivatives, integrals, and limits, with answer checking and practice problems.
 
 ### AP or College Calculus BC
 - [Calculus 2 (Integration methods, series, polar, vectors) full course](https://www.youtube.com/watch?v=i4c8n4S-Sp0&list=PLHXZ9OQGMqxc4ySKTIW19TLrT91Ik9M4n) - Youtube playlist explaining topics in calc 2 by Dr. Trefor Bazett.
