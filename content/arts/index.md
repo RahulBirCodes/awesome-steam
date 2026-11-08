@@ -35,6 +35,7 @@
 ## Calligraphy
 *(Applied Arts)*
 - [Calligraphy](https://en.wikipedia.org/wiki/Calligraphy) - Wikipedia.
+- [Cursive Generation Practice Sheet](https://cursive-generation.com/practice-sheet) - Free browser tool for making font-tracing practice sheets with horizontal guidelines.
 
 ## Painting and Drawing
 *(Fine Arts)*
