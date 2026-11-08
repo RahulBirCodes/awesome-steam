@@ -93,6 +93,7 @@ Help us fill out this section! Check out the [Contribute](@/contribute/_index.md
 - [Art of Problem Solving](https://artofproblemsolving.com/wiki/) - A website with a large number of practice high school math competition problems, with solutions and detailed explanations. It includes all the previous exam problems from the AMC 8, AMC 12, and AIME exams. It also has material on specific math-related topics such as number theory.
 
 ## Online Tools
+- [Calculation Hub Percentage Calculator](https://calculation-hub.com/math/percentage) - Free percentage and percentage-change calculations with formula explanations.
 - [Androma](https://androma.org) - Open mathematics wiki with theorem database, proofs, prerequisite tracking, study flashcards, and collaborative LaTeX editing.
 - [Desmos](https://www.desmos.com) - Graphing and scientific calculators.
 - [Symbolab](https://www.symbolab.com) - Math solver.
