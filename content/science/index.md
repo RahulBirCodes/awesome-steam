@@ -111,4 +111,5 @@
 - [A Free Particle](https://sites.google.com/view/afreeparticle/interactives?authuser=0) - Collection of interactive physics simulations and games explaining topics in newtonian mechanics by Michael Freeman.
 
 ### Astronomy Simulations
+- [Space Atlas](https://spaceatlasedu.org/) - Free browser models of Moon phases, Earth seasons and cosmic scale for teacher-guided exploration. Uses GA4 and AdSense; unsupervised under-13 use is not recommended.
 - [Scale of the Universe](https://scaleofuniverse.com/) - Interactive website to explore the size and scale of objects relative to each other.
