@@ -68,6 +68,7 @@
 
 ### Web Development
 - [Eloquent Javascript](https://eloquentjavascript.net) - Interactive online book on Javascript taking you through the basics of the language, its incorporation into the browser, and backend programming with Node.js by Marijn Haverbeke.
+- [FreeAIVoiceGenerator](https://freeaivoicegenerator.com/) - Free AI voice generator that creates natural AI voice messages from text with preset voices, language and speed controls. Free short previews; MP3 download after login.
 
 ### Language Guides
 - [Programming: Principles and Practice Using C++, 2nd Edition](https://learning.oreilly.com/library/view/programming-principles-and/9780133796759/) - An introduction to the fundamentals concepts and techniques in programming through C++ by the creator of C++.
