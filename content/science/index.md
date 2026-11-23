@@ -70,6 +70,7 @@
 ## Chemistry
 - [LibreTexts Chemistry](https://chem.libretexts.org/Bookshelves) - Open-acess texts for every sub-discipline in chemistry.
 - [carboncarbon.bond](https://carboncarbon.bond) - Fifty short, free lessons that introduce organic chemistry from a single carbon atom, with structure drawings and 3D models from PubChem and a quick check after each section.
+- [Periodic Table](https://bestlatestapps.com/tools/periodic-table/) - Interactive periodic table with each element's atomic mass, electron configuration, electronegativity, and melting and boiling points, cited to PubChem.
 
 ### AP or College General Chemistry
 - [General Chemistry 1 Review Study Guide - IB, AP, & College Chem Final Exam](https://www.youtube.com/watch?v=5yw1YH7YA7c) - Video tutorial study guide review for students who are taking their first semester of college general chemistry, IB, or AP Chemistry by The Organic Chemistry Tutor. Even if you’re studying for the general chemistry section of the MCAT, DAT, PCAT, OAT or SAT Subject chemistry test, this video can help give you a nice overview of all the topics you need to learn in General Chemistry 1.
