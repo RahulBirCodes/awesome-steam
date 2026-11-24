@@ -33,10 +33,9 @@
 - [Professor Leonard Intermediate Algebra](https://www.youtube.com/playlist?list=PLC292123722B1B450) - Full length lectures for intermediate algebra by Professor Leonard.
 
 ### Geometry
-Help us fill out this section! Check out the [Contribute](@/contribute/_index.md) page.
-
+- [Mobius Math Academy](https://app.mobius.academy/math/themes/geometry-2d/) - Geometry units (free to use) that range from early angles and shapes to high school circular geometry
 ### Algebra 2
-Help us fill out this section! Check out the [Contribute](@/contribute/_index.md) page.
+- [Mobius Math Academy](https://app.mobius.academy/math/themes/algebra/) - Algebra units (free to use) that range from early variables and balance beams to high school polynomials
 
 ### Precalculus and Trig 
 - [Professor Leonard Precalculus](https://www.youtube.com/playlist?list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP) - Full length lectures for precalculus by Professor Leonard.
