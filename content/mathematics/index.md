@@ -25,6 +25,7 @@
 
 ## K-5 Mathematics
 - [eSpark](https://www.esparklearning.com) - Free math lessons, games & activities for K-5.
+* [Bella and Pan order of operations example](https://bellaandpan.com/parents#difficulty). Compare 3 + 4 × 2 with (3 + 4) × 2 in a free worked example for grades 3 through 5.
 
 ## High School Courses
 
