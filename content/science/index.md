@@ -103,6 +103,7 @@
 
 ### Chemistry Simulations
 - [3DMolecules](https://apps.apple.com/app/id1639183447) - An interactive 3D molecule simulation designed to immerse students to the world of chemistry through a hands-on experience.
+- [Easy IGCSE Chemistry Lab](https://easyigcse.com/lab/chemistry/) - Free 3D bench for the 44 IGCSE chemistry practicals: pick up the equipment, take readings and fill in the results table. No sign-up.
 - [PhET Interactive Simulations](https://phet.colorado.edu/en/simulations/filter?subjects=chemistry&type=html&sort=alpha&view=grid) - Interactive simulations covering common laboratory experiments and particle models of concepts. Teachers can “use the existing objective and open-response questions already provided and/or modify/create new questions.” Teacher directives are “kept to a minimum to encourage investigation.”
 
 ### Physics Simulations
